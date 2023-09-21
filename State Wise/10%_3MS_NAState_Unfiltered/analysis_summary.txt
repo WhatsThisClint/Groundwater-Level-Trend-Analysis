@@ -1,0 +1,7 @@
+Analysis Date and Time: 2023-09-14 17:41:02.765940
+Start Date: 2000-12-31
+End Date: 2020-12-31
+Number of years: 20
+Resampling Period: 3MS
+Filter by State: Not Applied
+Data Filtering: Not Applied

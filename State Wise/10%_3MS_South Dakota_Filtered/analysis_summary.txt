@@ -1,0 +1,7 @@
+Analysis Date and Time: 2023-09-14 16:39:55.462484
+Start Date: 2000-12-31
+End Date: 2020-12-31
+Number of years: 20
+Resampling Period: 3MS
+Filter by State: South Dakota
+Data Filtering: Sites having > 10% mising data removed
