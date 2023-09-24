@@ -1,0 +1,624 @@
+AgencyCd,SiteNo,Time,Original Parameter,Original Direction,Original Unit,Original Value,Accuracy Unit,Accuracy Value,Depth to Water Below Land Surface in ft.,Water level in feet relative to NAVD88,Comment,Observation Method,Data Provided by,
+TWDB,2803601,1993-01-19T00:00:00-06:00,,,Feet,12.25,Unknown,Unknown,12.25,2939,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1994-02-08T00:00:00-06:00,,,Feet,12.10,Unknown,Unknown,12.10,2939,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1995-02-12T00:00:00-06:00,,,Feet,17.81,Unknown,Unknown,17.81,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1995-12-13T00:00:00-06:00,,,Feet,21.63,Unknown,Unknown,21.63,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1996-12-03T00:00:00-06:00,,,Feet,22.42,Unknown,Unknown,22.42,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1997-12-15T00:00:00-06:00,,,Feet,19.05,Unknown,Unknown,19.05,2932,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1998-12-08T00:00:00-06:00,,,Feet,21.25,Unknown,Unknown,21.25,2930,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,1999-12-14T00:00:00-06:00,,,Feet,20.30,Unknown,Unknown,20.30,2931,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2000-12-05T00:00:00-06:00,,,Feet,17.80,Unknown,Unknown,17.80,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2002-01-10T00:00:00-06:00,,,Feet,20.85,Unknown,Unknown,20.85,2930,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2002-12-11T00:00:00-06:00,,,Feet,24.48,Unknown,Unknown,24.48,2927,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2003-12-08T00:00:00-06:00,,,Feet,26.90,Unknown,Unknown,26.90,2924,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2004-12-08T00:00:00-06:00,,,Feet,20.50,Unknown,Unknown,20.50,2931,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2005-11-30T00:00:00-06:00,,,Feet,17.73,Unknown,Unknown,17.73,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2007-01-02T00:00:00-06:00,,,Feet,18.30,Unknown,Unknown,18.30,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2007-12-17T00:00:00-06:00,,,Feet,13.50,Unknown,Unknown,13.50,2938,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2008-12-03T00:00:00-06:00,,,Feet,13.45,Unknown,Unknown,13.45,2938,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2010-01-13T00:00:00-06:00,,,Feet,15.72,Unknown,Unknown,15.72,2935,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2010-12-29T00:00:00-06:00,,,Feet,11.48,Unknown,Unknown,11.48,2940,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2011-12-14T00:00:00-06:00,,,Feet,15.60,Unknown,Unknown,15.60,2935,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2012-12-19T11:19:00-06:00,,,Feet,17.40,Unknown,Unknown,17.40,2934,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803601,2013-11-18T15:25:00-06:00,,,Feet,17.38,Unknown,Unknown,17.38,2934,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2014-12-16T00:00:00-06:00,,,Feet,16.52,Unknown,Unknown,16.52,2934,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2015-12-11T00:00:00-06:00,,,Feet,14.98,Unknown,Unknown,14.98,2936,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803601,2017-01-10T11:00:00-06:00,,,Feet,12.79,Unknown,Unknown,12.79,2938,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2018-01-23T14:20:00-06:00,,,Feet,15.17,Unknown,Unknown,15.17,2936,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2019-01-15T08:39:00-06:00,,,Feet,15.92,Unknown,Unknown,15.92,2935,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803601,2019-12-11T15:05:00-06:00,,,Feet,15.19,Unknown,Unknown,15.19,2936,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803601,2021-01-08T17:20:00-06:00,,,Feet,17.45,Unknown,Unknown,17.45,2934,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803601,2021-08-13T00:00:00-06:00,,,Feet,13.97,Unknown,Unknown,13.97,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-14T00:00:00-06:00,,,Feet,14.00,Unknown,Unknown,14.00,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-15T00:00:00-06:00,,,Feet,13.96,Unknown,Unknown,13.96,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-16T00:00:00-06:00,,,Feet,13.95,Unknown,Unknown,13.95,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-17T00:00:00-06:00,,,Feet,13.97,Unknown,Unknown,13.97,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-18T00:00:00-06:00,,,Feet,13.98,Unknown,Unknown,13.98,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-19T00:00:00-06:00,,,Feet,13.98,Unknown,Unknown,13.98,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-20T00:00:00-06:00,,,Feet,13.98,Unknown,Unknown,13.98,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-21T00:00:00-06:00,,,Feet,14.02,Unknown,Unknown,14.02,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-22T00:00:00-06:00,,,Feet,14.07,Unknown,Unknown,14.07,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-23T00:00:00-06:00,,,Feet,14.11,Unknown,Unknown,14.11,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-24T00:00:00-06:00,,,Feet,14.15,Unknown,Unknown,14.15,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-25T00:00:00-06:00,,,Feet,14.20,Unknown,Unknown,14.20,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-26T00:00:00-06:00,,,Feet,14.24,Unknown,Unknown,14.24,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-27T00:00:00-06:00,,,Feet,14.28,Unknown,Unknown,14.28,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-28T00:00:00-06:00,,,Feet,14.49,Unknown,Unknown,14.49,2937,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-29T00:00:00-06:00,,,Feet,14.52,Unknown,Unknown,14.52,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-30T00:00:00-06:00,,,Feet,14.53,Unknown,Unknown,14.53,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-08-31T00:00:00-06:00,,,Feet,14.56,Unknown,Unknown,14.56,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-01T00:00:00-06:00,,,Feet,14.61,Unknown,Unknown,14.61,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-02T00:00:00-06:00,,,Feet,14.67,Unknown,Unknown,14.67,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-03T00:00:00-06:00,,,Feet,14.71,Unknown,Unknown,14.71,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-04T00:00:00-06:00,,,Feet,14.76,Unknown,Unknown,14.76,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-05T00:00:00-06:00,,,Feet,14.82,Unknown,Unknown,14.82,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-06T00:00:00-06:00,,,Feet,14.84,Unknown,Unknown,14.84,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-07T00:00:00-06:00,,,Feet,14.88,Unknown,Unknown,14.88,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-08T00:00:00-06:00,,,Feet,14.93,Unknown,Unknown,14.93,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-09T00:00:00-06:00,,,Feet,14.97,Unknown,Unknown,14.97,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-10T00:00:00-06:00,,,Feet,15.01,Unknown,Unknown,15.01,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-11T00:00:00-06:00,,,Feet,15.05,Unknown,Unknown,15.05,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-12T00:00:00-06:00,,,Feet,15.09,Unknown,Unknown,15.09,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-13T00:00:00-06:00,,,Feet,15.09,Unknown,Unknown,15.09,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-14T00:00:00-06:00,,,Feet,15.09,Unknown,Unknown,15.09,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-15T00:00:00-06:00,,,Feet,15.07,Unknown,Unknown,15.07,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-16T00:00:00-06:00,,,Feet,15.11,Unknown,Unknown,15.11,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-17T00:00:00-06:00,,,Feet,15.17,Unknown,Unknown,15.17,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-18T00:00:00-06:00,,,Feet,15.23,Unknown,Unknown,15.23,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-19T00:00:00-06:00,,,Feet,15.22,Unknown,Unknown,15.22,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-20T00:00:00-06:00,,,Feet,15.21,Unknown,Unknown,15.21,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-21T00:00:00-06:00,,,Feet,15.27,Unknown,Unknown,15.27,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-22T00:00:00-06:00,,,Feet,15.14,Unknown,Unknown,15.14,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-23T00:00:00-06:00,,,Feet,15.05,Unknown,Unknown,15.05,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-24T00:00:00-06:00,,,Feet,15.04,Unknown,Unknown,15.04,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-25T00:00:00-06:00,,,Feet,15.03,Unknown,Unknown,15.03,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-26T00:00:00-06:00,,,Feet,14.99,Unknown,Unknown,14.99,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-27T00:00:00-06:00,,,Feet,14.95,Unknown,Unknown,14.95,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-28T00:00:00-06:00,,,Feet,14.92,Unknown,Unknown,14.92,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-29T00:00:00-06:00,,,Feet,14.92,Unknown,Unknown,14.92,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-09-30T00:00:00-06:00,,,Feet,14.97,Unknown,Unknown,14.97,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-01T00:00:00-06:00,,,Feet,15.01,Unknown,Unknown,15.01,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-02T00:00:00-06:00,,,Feet,15.00,Unknown,Unknown,15.00,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-03T00:00:00-06:00,,,Feet,14.99,Unknown,Unknown,14.99,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-04T00:00:00-06:00,,,Feet,14.98,Unknown,Unknown,14.98,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-05T00:00:00-06:00,,,Feet,14.97,Unknown,Unknown,14.97,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-06T00:00:00-06:00,,,Feet,14.96,Unknown,Unknown,14.96,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-07T00:00:00-06:00,,,Feet,14.96,Unknown,Unknown,14.96,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-08T00:00:00-06:00,,,Feet,14.96,Unknown,Unknown,14.96,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-09T00:00:00-06:00,,,Feet,14.91,Unknown,Unknown,14.91,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-10T00:00:00-06:00,,,Feet,14.88,Unknown,Unknown,14.88,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-11T00:00:00-06:00,,,Feet,14.95,Unknown,Unknown,14.95,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-12T00:00:00-06:00,,,Feet,14.92,Unknown,Unknown,14.92,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-13T00:00:00-06:00,,,Feet,15.00,Unknown,Unknown,15.00,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-14T00:00:00-06:00,,,Feet,15.07,Unknown,Unknown,15.07,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-15T00:00:00-06:00,,,Feet,15.13,Unknown,Unknown,15.13,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-16T00:00:00-06:00,,,Feet,15.21,Unknown,Unknown,15.21,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-17T00:00:00-06:00,,,Feet,15.13,Unknown,Unknown,15.13,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-18T00:00:00-06:00,,,Feet,15.06,Unknown,Unknown,15.06,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-19T00:00:00-06:00,,,Feet,15.06,Unknown,Unknown,15.06,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-20T00:00:00-06:00,,,Feet,15.14,Unknown,Unknown,15.14,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-21T00:00:00-06:00,,,Feet,15.17,Unknown,Unknown,15.17,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-22T00:00:00-06:00,,,Feet,14.61,Unknown,Unknown,14.61,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-23T00:00:00-06:00,,,Feet,14.56,Unknown,Unknown,14.56,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-24T00:00:00-06:00,,,Feet,14.59,Unknown,Unknown,14.59,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-25T00:00:00-06:00,,,Feet,14.66,Unknown,Unknown,14.66,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-26T00:00:00-06:00,,,Feet,14.56,Unknown,Unknown,14.56,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-27T00:00:00-06:00,,,Feet,14.61,Unknown,Unknown,14.61,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-28T00:00:00-06:00,,,Feet,14.75,Unknown,Unknown,14.75,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-29T00:00:00-06:00,,,Feet,14.73,Unknown,Unknown,14.73,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-30T00:00:00-06:00,,,Feet,14.65,Unknown,Unknown,14.65,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-10-31T00:00:00-06:00,,,Feet,14.70,Unknown,Unknown,14.70,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-01T00:00:00-06:00,,,Feet,14.77,Unknown,Unknown,14.77,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-02T00:00:00-06:00,,,Feet,14.79,Unknown,Unknown,14.79,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-03T00:00:00-06:00,,,Feet,14.81,Unknown,Unknown,14.81,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-04T00:00:00-06:00,,,Feet,14.79,Unknown,Unknown,14.79,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-05T00:00:00-06:00,,,Feet,14.76,Unknown,Unknown,14.76,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-06T00:00:00-06:00,,,Feet,14.80,Unknown,Unknown,14.80,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-07T00:00:00-06:00,,,Feet,14.79,Unknown,Unknown,14.79,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-08T00:00:00-06:00,,,Feet,14.82,Unknown,Unknown,14.82,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-09T00:00:00-06:00,,,Feet,14.79,Unknown,Unknown,14.79,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-10T00:00:00-06:00,,,Feet,14.74,Unknown,Unknown,14.74,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-11T00:00:00-06:00,,,Feet,14.84,Unknown,Unknown,14.84,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-12T00:00:00-06:00,,,Feet,14.86,Unknown,Unknown,14.86,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-13T00:00:00-06:00,,,Feet,14.81,Unknown,Unknown,14.81,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-14T00:00:00-06:00,,,Feet,14.84,Unknown,Unknown,14.84,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-15T00:00:00-06:00,,,Feet,14.84,Unknown,Unknown,14.84,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-16T00:00:00-06:00,,,Feet,14.80,Unknown,Unknown,14.80,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-17T00:00:00-06:00,,,Feet,14.84,Unknown,Unknown,14.84,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-18T00:00:00-06:00,,,Feet,15.00,Unknown,Unknown,15.00,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-19T00:00:00-06:00,,,Feet,14.88,Unknown,Unknown,14.88,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-20T00:00:00-06:00,,,Feet,14.85,Unknown,Unknown,14.85,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-21T00:00:00-06:00,,,Feet,14.89,Unknown,Unknown,14.89,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-22T00:00:00-06:00,,,Feet,14.96,Unknown,Unknown,14.96,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-23T00:00:00-06:00,,,Feet,14.86,Unknown,Unknown,14.86,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-24T00:00:00-06:00,,,Feet,14.86,Unknown,Unknown,14.86,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-25T00:00:00-06:00,,,Feet,15.04,Unknown,Unknown,15.04,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-26T00:00:00-06:00,,,Feet,14.95,Unknown,Unknown,14.95,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-27T00:00:00-06:00,,,Feet,14.93,Unknown,Unknown,14.93,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-28T00:00:00-06:00,,,Feet,15.03,Unknown,Unknown,15.03,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-29T00:00:00-06:00,,,Feet,14.98,Unknown,Unknown,14.98,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-11-30T00:00:00-06:00,,,Feet,15.00,Unknown,Unknown,15.00,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-01T00:00:00-06:00,,,Feet,15.03,Unknown,Unknown,15.03,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-02T00:00:00-06:00,,,Feet,15.03,Unknown,Unknown,15.03,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-03T00:00:00-06:00,,,Feet,15.01,Unknown,Unknown,15.01,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-04T00:00:00-06:00,,,Feet,15.07,Unknown,Unknown,15.07,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-05T00:00:00-06:00,,,Feet,14.98,Unknown,Unknown,14.98,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-06T00:00:00-06:00,,,Feet,15.06,Unknown,Unknown,15.06,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-07T00:00:00-06:00,,,Feet,15.00,Unknown,Unknown,15.00,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-08T00:00:00-06:00,,,Feet,15.02,Unknown,Unknown,15.02,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-09T00:00:00-06:00,,,Feet,15.03,Unknown,Unknown,15.03,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-10T00:00:00-06:00,,,Feet,15.02,Unknown,Unknown,15.02,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-10T14:15:00-06:00,,,Feet,15.10,Unknown,Unknown,15.10,2936,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803601,2021-12-11T00:00:00-06:00,,,Feet,15.19,Unknown,Unknown,15.19,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-12T00:00:00-06:00,,,Feet,15.13,Unknown,Unknown,15.13,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-13T00:00:00-06:00,,,Feet,15.15,Unknown,Unknown,15.15,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-14T00:00:00-06:00,,,Feet,15.15,Unknown,Unknown,15.15,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-15T00:00:00-06:00,,,Feet,15.09,Unknown,Unknown,15.09,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-16T00:00:00-06:00,,,Feet,15.16,Unknown,Unknown,15.16,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-17T00:00:00-06:00,,,Feet,15.14,Unknown,Unknown,15.14,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-18T00:00:00-06:00,,,Feet,15.21,Unknown,Unknown,15.21,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-19T00:00:00-06:00,,,Feet,15.23,Unknown,Unknown,15.23,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-20T00:00:00-06:00,,,Feet,15.20,Unknown,Unknown,15.20,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-21T00:00:00-06:00,,,Feet,15.17,Unknown,Unknown,15.17,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-22T00:00:00-06:00,,,Feet,15.21,Unknown,Unknown,15.21,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-23T00:00:00-06:00,,,Feet,15.20,Unknown,Unknown,15.20,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-24T00:00:00-06:00,,,Feet,15.17,Unknown,Unknown,15.17,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-25T00:00:00-06:00,,,Feet,15.24,Unknown,Unknown,15.24,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-26T00:00:00-06:00,,,Feet,15.22,Unknown,Unknown,15.22,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-27T00:00:00-06:00,,,Feet,15.21,Unknown,Unknown,15.21,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-28T00:00:00-06:00,,,Feet,15.21,Unknown,Unknown,15.21,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-29T00:00:00-06:00,,,Feet,15.26,Unknown,Unknown,15.26,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-30T00:00:00-06:00,,,Feet,15.30,Unknown,Unknown,15.30,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2021-12-31T00:00:00-06:00,,,Feet,15.31,Unknown,Unknown,15.31,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-01T00:00:00-06:00,,,Feet,15.23,Unknown,Unknown,15.23,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-02T00:00:00-06:00,,,Feet,15.45,Unknown,Unknown,15.45,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-03T00:00:00-06:00,,,Feet,15.36,Unknown,Unknown,15.36,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-04T00:00:00-06:00,,,Feet,15.28,Unknown,Unknown,15.28,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-05T00:00:00-06:00,,,Feet,15.31,Unknown,Unknown,15.31,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-06T00:00:00-06:00,,,Feet,15.31,Unknown,Unknown,15.31,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-07T00:00:00-06:00,,,Feet,15.34,Unknown,Unknown,15.34,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-08T00:00:00-06:00,,,Feet,15.34,Unknown,Unknown,15.34,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-09T00:00:00-06:00,,,Feet,15.45,Unknown,Unknown,15.45,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-10T00:00:00-06:00,,,Feet,15.53,Unknown,Unknown,15.53,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-11T00:00:00-06:00,,,Feet,15.45,Unknown,Unknown,15.45,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-12T00:00:00-06:00,,,Feet,15.42,Unknown,Unknown,15.42,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-13T00:00:00-06:00,,,Feet,15.41,Unknown,Unknown,15.41,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-14T00:00:00-06:00,,,Feet,15.33,Unknown,Unknown,15.33,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-15T00:00:00-06:00,,,Feet,15.50,Unknown,Unknown,15.50,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-16T00:00:00-06:00,,,Feet,15.43,Unknown,Unknown,15.43,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-17T00:00:00-06:00,,,Feet,15.43,Unknown,Unknown,15.43,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-18T00:00:00-06:00,,,Feet,15.41,Unknown,Unknown,15.41,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-19T00:00:00-06:00,,,Feet,15.45,Unknown,Unknown,15.45,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-20T00:00:00-06:00,,,Feet,15.59,Unknown,Unknown,15.59,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-21T00:00:00-06:00,,,Feet,15.52,Unknown,Unknown,15.52,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-22T00:00:00-06:00,,,Feet,15.58,Unknown,Unknown,15.58,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-23T00:00:00-06:00,,,Feet,15.51,Unknown,Unknown,15.51,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-24T00:00:00-06:00,,,Feet,15.45,Unknown,Unknown,15.45,2936,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-25T00:00:00-06:00,,,Feet,15.52,Unknown,Unknown,15.52,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-26T00:00:00-06:00,,,Feet,15.60,Unknown,Unknown,15.60,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-27T00:00:00-06:00,,,Feet,15.61,Unknown,Unknown,15.61,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-28T00:00:00-06:00,,,Feet,15.66,Unknown,Unknown,15.66,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-29T00:00:00-06:00,,,Feet,15.58,Unknown,Unknown,15.58,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-30T00:00:00-06:00,,,Feet,15.54,Unknown,Unknown,15.54,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-01-31T00:00:00-06:00,,,Feet,15.57,Unknown,Unknown,15.57,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-01T00:00:00-06:00,,,Feet,15.53,Unknown,Unknown,15.53,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-02T00:00:00-06:00,,,Feet,15.59,Unknown,Unknown,15.59,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-03T00:00:00-06:00,,,Feet,15.70,Unknown,Unknown,15.70,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-04T00:00:00-06:00,,,Feet,15.77,Unknown,Unknown,15.77,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-05T00:00:00-06:00,,,Feet,15.63,Unknown,Unknown,15.63,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-06T00:00:00-06:00,,,Feet,15.63,Unknown,Unknown,15.63,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-07T00:00:00-06:00,,,Feet,15.73,Unknown,Unknown,15.73,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-08T00:00:00-06:00,,,Feet,15.64,Unknown,Unknown,15.64,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-09T00:00:00-06:00,,,Feet,15.67,Unknown,Unknown,15.67,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-10T00:00:00-06:00,,,Feet,15.68,Unknown,Unknown,15.68,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-11T00:00:00-06:00,,,Feet,15.64,Unknown,Unknown,15.64,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-12T00:00:00-06:00,,,Feet,15.79,Unknown,Unknown,15.79,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-13T00:00:00-06:00,,,Feet,15.77,Unknown,Unknown,15.77,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-14T00:00:00-06:00,,,Feet,15.71,Unknown,Unknown,15.71,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-15T00:00:00-06:00,,,Feet,15.66,Unknown,Unknown,15.66,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-16T00:00:00-06:00,,,Feet,15.64,Unknown,Unknown,15.64,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-17T00:00:00-06:00,,,Feet,15.70,Unknown,Unknown,15.70,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-18T00:00:00-06:00,,,Feet,15.83,Unknown,Unknown,15.83,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-19T00:00:00-06:00,,,Feet,15.81,Unknown,Unknown,15.81,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-20T00:00:00-06:00,,,Feet,15.74,Unknown,Unknown,15.74,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-21T00:00:00-06:00,,,Feet,15.70,Unknown,Unknown,15.70,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-22T00:00:00-06:00,,,Feet,15.75,Unknown,Unknown,15.75,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-23T00:00:00-06:00,,,Feet,15.84,Unknown,Unknown,15.84,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-24T00:00:00-06:00,,,Feet,15.83,Unknown,Unknown,15.83,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-25T00:00:00-06:00,,,Feet,15.90,Unknown,Unknown,15.90,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-26T00:00:00-06:00,,,Feet,15.89,Unknown,Unknown,15.89,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-27T00:00:00-06:00,,,Feet,15.92,Unknown,Unknown,15.92,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-02-28T00:00:00-06:00,,,Feet,15.93,Unknown,Unknown,15.93,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-01T00:00:00-06:00,,,Feet,15.88,Unknown,Unknown,15.88,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-02T00:00:00-06:00,,,Feet,15.90,Unknown,Unknown,15.90,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-03T00:00:00-06:00,,,Feet,15.98,Unknown,Unknown,15.98,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-04T00:00:00-06:00,,,Feet,15.94,Unknown,Unknown,15.94,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-05T00:00:00-06:00,,,Feet,15.94,Unknown,Unknown,15.94,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-06T00:00:00-06:00,,,Feet,15.97,Unknown,Unknown,15.97,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-07T00:00:00-06:00,,,Feet,16.01,Unknown,Unknown,16.01,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-08T00:00:00-06:00,,,Feet,15.95,Unknown,Unknown,15.95,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-09T00:00:00-06:00,,,Feet,15.91,Unknown,Unknown,15.91,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-10T00:00:00-06:00,,,Feet,15.93,Unknown,Unknown,15.93,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-11T00:00:00-06:00,,,Feet,16.03,Unknown,Unknown,16.03,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-12T00:00:00-06:00,,,Feet,16.03,Unknown,Unknown,16.03,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-13T00:00:00-06:00,,,Feet,15.96,Unknown,Unknown,15.96,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-14T00:00:00-06:00,,,Feet,15.95,Unknown,Unknown,15.95,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-15T00:00:00-06:00,,,Feet,16.05,Unknown,Unknown,16.05,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-16T00:00:00-06:00,,,Feet,15.95,Unknown,Unknown,15.95,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-17T00:00:00-06:00,,,Feet,15.93,Unknown,Unknown,15.93,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-18T00:00:00-06:00,,,Feet,16.08,Unknown,Unknown,16.08,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-19T00:00:00-06:00,,,Feet,16.14,Unknown,Unknown,16.14,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-20T00:00:00-06:00,,,Feet,16.06,Unknown,Unknown,16.06,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-21T00:00:00-06:00,,,Feet,16.03,Unknown,Unknown,16.03,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-22T00:00:00-06:00,,,Feet,16.10,Unknown,Unknown,16.10,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-23T00:00:00-06:00,,,Feet,16.14,Unknown,Unknown,16.14,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-24T00:00:00-06:00,,,Feet,16.16,Unknown,Unknown,16.16,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-25T00:00:00-06:00,,,Feet,16.17,Unknown,Unknown,16.17,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-26T00:00:00-06:00,,,Feet,16.15,Unknown,Unknown,16.15,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-27T00:00:00-06:00,,,Feet,16.13,Unknown,Unknown,16.13,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-28T00:00:00-06:00,,,Feet,16.13,Unknown,Unknown,16.13,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-29T00:00:00-06:00,,,Feet,16.06,Unknown,Unknown,16.06,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-30T00:00:00-06:00,,,Feet,16.12,Unknown,Unknown,16.12,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-03-31T00:00:00-06:00,,,Feet,16.18,Unknown,Unknown,16.18,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-01T00:00:00-06:00,,,Feet,16.18,Unknown,Unknown,16.18,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-02T00:00:00-06:00,,,Feet,16.23,Unknown,Unknown,16.23,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-03T00:00:00-06:00,,,Feet,16.16,Unknown,Unknown,16.16,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-04T00:00:00-06:00,,,Feet,16.18,Unknown,Unknown,16.18,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-05T00:00:00-06:00,,,Feet,16.14,Unknown,Unknown,16.14,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-06T00:00:00-06:00,,,Feet,16.17,Unknown,Unknown,16.17,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-07T00:00:00-06:00,,,Feet,16.29,Unknown,Unknown,16.29,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-08T00:00:00-06:00,,,Feet,16.29,Unknown,Unknown,16.29,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-09T00:00:00-06:00,,,Feet,16.19,Unknown,Unknown,16.19,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-10T00:00:00-06:00,,,Feet,16.17,Unknown,Unknown,16.17,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-11T00:00:00-06:00,,,Feet,16.20,Unknown,Unknown,16.20,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-12T00:00:00-06:00,,,Feet,16.20,Unknown,Unknown,16.20,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-13T00:00:00-06:00,,,Feet,16.23,Unknown,Unknown,16.23,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-14T00:00:00-06:00,,,Feet,16.29,Unknown,Unknown,16.29,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-15T00:00:00-06:00,,,Feet,16.29,Unknown,Unknown,16.29,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-16T00:00:00-06:00,,,Feet,16.32,Unknown,Unknown,16.32,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-17T00:00:00-06:00,,,Feet,16.34,Unknown,Unknown,16.34,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-18T00:00:00-06:00,,,Feet,16.39,Unknown,Unknown,16.39,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-19T00:00:00-06:00,,,Feet,16.29,Unknown,Unknown,16.29,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-20T00:00:00-06:00,,,Feet,16.29,Unknown,Unknown,16.29,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-21T00:00:00-06:00,,,Feet,16.35,Unknown,Unknown,16.35,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-22T00:00:00-06:00,,,Feet,16.30,Unknown,Unknown,16.30,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-23T00:00:00-06:00,,,Feet,16.32,Unknown,Unknown,16.32,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-24T00:00:00-06:00,,,Feet,16.38,Unknown,Unknown,16.38,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-25T00:00:00-06:00,,,Feet,16.45,Unknown,Unknown,16.45,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-26T00:00:00-06:00,,,Feet,16.43,Unknown,Unknown,16.43,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-27T00:00:00-06:00,,,Feet,16.37,Unknown,Unknown,16.37,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-28T00:00:00-06:00,,,Feet,16.34,Unknown,Unknown,16.34,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-29T00:00:00-06:00,,,Feet,16.36,Unknown,Unknown,16.36,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-04-30T00:00:00-06:00,,,Feet,16.40,Unknown,Unknown,16.40,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-01T00:00:00-06:00,,,Feet,16.41,Unknown,Unknown,16.41,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-02T00:00:00-06:00,,,Feet,16.41,Unknown,Unknown,16.41,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-03T00:00:00-06:00,,,Feet,16.47,Unknown,Unknown,16.47,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-04T00:00:00-06:00,,,Feet,16.44,Unknown,Unknown,16.44,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-05T00:00:00-06:00,,,Feet,16.46,Unknown,Unknown,16.46,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-06T00:00:00-06:00,,,Feet,16.48,Unknown,Unknown,16.48,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-07T00:00:00-06:00,,,Feet,16.45,Unknown,Unknown,16.45,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-08T00:00:00-06:00,,,Feet,16.46,Unknown,Unknown,16.46,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-09T00:00:00-06:00,,,Feet,16.49,Unknown,Unknown,16.49,2935,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-10T00:00:00-06:00,,,Feet,16.53,Unknown,Unknown,16.53,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-11T00:00:00-06:00,,,Feet,16.54,Unknown,Unknown,16.54,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-12T00:00:00-06:00,,,Feet,16.53,Unknown,Unknown,16.53,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-13T00:00:00-06:00,,,Feet,16.55,Unknown,Unknown,16.55,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-14T00:00:00-06:00,,,Feet,16.57,Unknown,Unknown,16.57,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-15T00:00:00-06:00,,,Feet,16.56,Unknown,Unknown,16.56,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-16T00:00:00-06:00,,,Feet,16.54,Unknown,Unknown,16.54,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-17T00:00:00-06:00,,,Feet,16.55,Unknown,Unknown,16.55,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-18T00:00:00-06:00,,,Feet,16.57,Unknown,Unknown,16.57,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-19T00:00:00-06:00,,,Feet,16.53,Unknown,Unknown,16.53,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-20T00:00:00-06:00,,,Feet,16.55,Unknown,Unknown,16.55,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-21T00:00:00-06:00,,,Feet,16.63,Unknown,Unknown,16.63,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-22T00:00:00-06:00,,,Feet,16.65,Unknown,Unknown,16.65,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-23T00:00:00-06:00,,,Feet,16.57,Unknown,Unknown,16.57,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-24T00:00:00-06:00,,,Feet,16.54,Unknown,Unknown,16.54,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-25T00:00:00-06:00,,,Feet,16.63,Unknown,Unknown,16.63,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-26T00:00:00-06:00,,,Feet,16.68,Unknown,Unknown,16.68,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-27T00:00:00-06:00,,,Feet,16.65,Unknown,Unknown,16.65,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-28T00:00:00-06:00,,,Feet,16.59,Unknown,Unknown,16.59,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-29T00:00:00-06:00,,,Feet,16.58,Unknown,Unknown,16.58,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-30T00:00:00-06:00,,,Feet,16.61,Unknown,Unknown,16.61,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-05-31T00:00:00-06:00,,,Feet,16.68,Unknown,Unknown,16.68,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-01T00:00:00-06:00,,,Feet,16.69,Unknown,Unknown,16.69,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-02T00:00:00-06:00,,,Feet,16.72,Unknown,Unknown,16.72,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-03T00:00:00-06:00,,,Feet,16.72,Unknown,Unknown,16.72,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-04T00:00:00-06:00,,,Feet,16.67,Unknown,Unknown,16.67,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-05T00:00:00-06:00,,,Feet,16.66,Unknown,Unknown,16.66,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-06T00:00:00-06:00,,,Feet,16.66,Unknown,Unknown,16.66,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-07T00:00:00-06:00,,,Feet,16.71,Unknown,Unknown,16.71,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-08T00:00:00-06:00,,,Feet,16.75,Unknown,Unknown,16.75,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-09T00:00:00-06:00,,,Feet,16.74,Unknown,Unknown,16.74,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-10T00:00:00-06:00,,,Feet,16.75,Unknown,Unknown,16.75,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-11T00:00:00-06:00,,,Feet,16.74,Unknown,Unknown,16.74,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-12T00:00:00-06:00,,,Feet,16.76,Unknown,Unknown,16.76,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-13T00:00:00-06:00,,,Feet,16.76,Unknown,Unknown,16.76,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-14T00:00:00-06:00,,,Feet,16.78,Unknown,Unknown,16.78,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-15T00:00:00-06:00,,,Feet,16.90,Unknown,Unknown,16.90,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-16T00:00:00-06:00,,,Feet,16.91,Unknown,Unknown,16.91,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-17T00:00:00-06:00,,,Feet,16.91,Unknown,Unknown,16.91,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-18T00:00:00-06:00,,,Feet,16.92,Unknown,Unknown,16.92,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-19T00:00:00-06:00,,,Feet,16.92,Unknown,Unknown,16.92,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-20T00:00:00-06:00,,,Feet,16.94,Unknown,Unknown,16.94,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-21T00:00:00-06:00,,,Feet,16.96,Unknown,Unknown,16.96,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-22T00:00:00-06:00,,,Feet,16.95,Unknown,Unknown,16.95,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-23T00:00:00-06:00,,,Feet,16.94,Unknown,Unknown,16.94,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-24T00:00:00-06:00,,,Feet,16.95,Unknown,Unknown,16.95,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-25T00:00:00-06:00,,,Feet,16.97,Unknown,Unknown,16.97,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-26T00:00:00-06:00,,,Feet,17.01,Unknown,Unknown,17.01,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-27T00:00:00-06:00,,,Feet,17.01,Unknown,Unknown,17.01,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-28T00:00:00-06:00,,,Feet,17.01,Unknown,Unknown,17.01,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-29T00:00:00-06:00,,,Feet,17.01,Unknown,Unknown,17.01,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-06-30T00:00:00-06:00,,,Feet,16.99,Unknown,Unknown,16.99,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-01T00:00:00-06:00,,,Feet,17.00,Unknown,Unknown,17.00,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-02T00:00:00-06:00,,,Feet,17.02,Unknown,Unknown,17.02,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-03T00:00:00-06:00,,,Feet,17.03,Unknown,Unknown,17.03,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-04T00:00:00-06:00,,,Feet,17.03,Unknown,Unknown,17.03,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-05T00:00:00-06:00,,,Feet,17.04,Unknown,Unknown,17.04,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-06T00:00:00-06:00,,,Feet,17.05,Unknown,Unknown,17.05,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-07T00:00:00-06:00,,,Feet,17.07,Unknown,Unknown,17.07,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-08T00:00:00-06:00,,,Feet,17.08,Unknown,Unknown,17.08,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-09T00:00:00-06:00,,,Feet,17.10,Unknown,Unknown,17.10,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-10T00:00:00-06:00,,,Feet,17.08,Unknown,Unknown,17.08,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-11T00:00:00-06:00,,,Feet,17.08,Unknown,Unknown,17.08,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-12T00:00:00-06:00,,,Feet,17.11,Unknown,Unknown,17.11,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-13T00:00:00-06:00,,,Feet,17.12,Unknown,Unknown,17.12,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-14T00:00:00-06:00,,,Feet,17.12,Unknown,Unknown,17.12,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-15T00:00:00-06:00,,,Feet,17.14,Unknown,Unknown,17.14,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-16T00:00:00-06:00,,,Feet,17.13,Unknown,Unknown,17.13,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-17T00:00:00-06:00,,,Feet,17.15,Unknown,Unknown,17.15,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-18T00:00:00-06:00,,,Feet,17.15,Unknown,Unknown,17.15,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-19T00:00:00-06:00,,,Feet,17.15,Unknown,Unknown,17.15,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-20T00:00:00-06:00,,,Feet,17.16,Unknown,Unknown,17.16,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-21T00:00:00-06:00,,,Feet,17.18,Unknown,Unknown,17.18,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-22T00:00:00-06:00,,,Feet,17.19,Unknown,Unknown,17.19,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-23T00:00:00-06:00,,,Feet,17.19,Unknown,Unknown,17.19,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-24T00:00:00-06:00,,,Feet,17.20,Unknown,Unknown,17.20,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-25T00:00:00-06:00,,,Feet,17.20,Unknown,Unknown,17.20,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-26T00:00:00-06:00,,,Feet,17.21,Unknown,Unknown,17.21,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-27T00:00:00-06:00,,,Feet,17.22,Unknown,Unknown,17.22,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-28T00:00:00-06:00,,,Feet,17.23,Unknown,Unknown,17.23,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-29T00:00:00-06:00,,,Feet,17.24,Unknown,Unknown,17.24,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-30T00:00:00-06:00,,,Feet,17.25,Unknown,Unknown,17.25,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-07-31T00:00:00-06:00,,,Feet,17.26,Unknown,Unknown,17.26,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-01T00:00:00-06:00,,,Feet,17.26,Unknown,Unknown,17.26,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-02T00:00:00-06:00,,,Feet,17.26,Unknown,Unknown,17.26,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-03T00:00:00-06:00,,,Feet,17.27,Unknown,Unknown,17.27,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-04T00:00:00-06:00,,,Feet,17.28,Unknown,Unknown,17.28,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-05T00:00:00-06:00,,,Feet,17.30,Unknown,Unknown,17.30,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-06T00:00:00-06:00,,,Feet,17.31,Unknown,Unknown,17.31,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-07T00:00:00-06:00,,,Feet,17.32,Unknown,Unknown,17.32,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-08T00:00:00-06:00,,,Feet,17.32,Unknown,Unknown,17.32,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-09T00:00:00-06:00,,,Feet,17.34,Unknown,Unknown,17.34,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-10T00:00:00-06:00,,,Feet,17.35,Unknown,Unknown,17.35,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-11T00:00:00-06:00,,,Feet,17.34,Unknown,Unknown,17.34,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-12T00:00:00-06:00,,,Feet,17.36,Unknown,Unknown,17.36,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-13T00:00:00-06:00,,,Feet,17.36,Unknown,Unknown,17.36,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-14T00:00:00-06:00,,,Feet,17.37,Unknown,Unknown,17.37,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-15T00:00:00-06:00,,,Feet,17.38,Unknown,Unknown,17.38,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-16T00:00:00-06:00,,,Feet,17.39,Unknown,Unknown,17.39,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-17T00:00:00-06:00,,,Feet,17.40,Unknown,Unknown,17.40,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-18T00:00:00-06:00,,,Feet,17.41,Unknown,Unknown,17.41,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-19T00:00:00-06:00,,,Feet,17.40,Unknown,Unknown,17.40,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-20T00:00:00-06:00,,,Feet,17.42,Unknown,Unknown,17.42,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-21T00:00:00-06:00,,,Feet,17.42,Unknown,Unknown,17.42,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-22T00:00:00-06:00,,,Feet,17.44,Unknown,Unknown,17.44,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-23T00:00:00-06:00,,,Feet,17.44,Unknown,Unknown,17.44,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-24T00:00:00-06:00,,,Feet,17.45,Unknown,Unknown,17.45,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-25T00:00:00-06:00,,,Feet,17.45,Unknown,Unknown,17.45,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-26T00:00:00-06:00,,,Feet,17.45,Unknown,Unknown,17.45,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-27T00:00:00-06:00,,,Feet,17.44,Unknown,Unknown,17.44,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-28T00:00:00-06:00,,,Feet,17.45,Unknown,Unknown,17.45,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-29T00:00:00-06:00,,,Feet,17.46,Unknown,Unknown,17.46,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-30T00:00:00-06:00,,,Feet,17.48,Unknown,Unknown,17.48,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-08-31T00:00:00-06:00,,,Feet,17.51,Unknown,Unknown,17.51,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-01T00:00:00-06:00,,,Feet,17.50,Unknown,Unknown,17.50,2934,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-02T00:00:00-06:00,,,Feet,17.52,Unknown,Unknown,17.52,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-03T00:00:00-06:00,,,Feet,17.52,Unknown,Unknown,17.52,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-04T00:00:00-06:00,,,Feet,17.51,Unknown,Unknown,17.51,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-05T00:00:00-06:00,,,Feet,17.52,Unknown,Unknown,17.52,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-06T00:00:00-06:00,,,Feet,17.70,Unknown,Unknown,17.70,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-07T00:00:00-06:00,,,Feet,17.71,Unknown,Unknown,17.71,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-08T00:00:00-06:00,,,Feet,17.68,Unknown,Unknown,17.68,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-09T00:00:00-06:00,,,Feet,17.68,Unknown,Unknown,17.68,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-10T00:00:00-06:00,,,Feet,17.73,Unknown,Unknown,17.73,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-11T00:00:00-06:00,,,Feet,17.75,Unknown,Unknown,17.75,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-12T00:00:00-06:00,,,Feet,17.72,Unknown,Unknown,17.72,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-13T00:00:00-06:00,,,Feet,17.73,Unknown,Unknown,17.73,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-14T00:00:00-06:00,,,Feet,17.75,Unknown,Unknown,17.75,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-15T00:00:00-06:00,,,Feet,17.76,Unknown,Unknown,17.76,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-16T00:00:00-06:00,,,Feet,17.77,Unknown,Unknown,17.77,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-17T00:00:00-06:00,,,Feet,17.78,Unknown,Unknown,17.78,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-18T00:00:00-06:00,,,Feet,17.79,Unknown,Unknown,17.79,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-19T00:00:00-06:00,,,Feet,17.80,Unknown,Unknown,17.80,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-20T00:00:00-06:00,,,Feet,17.81,Unknown,Unknown,17.81,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-21T00:00:00-06:00,,,Feet,17.82,Unknown,Unknown,17.82,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-22T00:00:00-06:00,,,Feet,17.83,Unknown,Unknown,17.83,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-23T00:00:00-06:00,,,Feet,17.83,Unknown,Unknown,17.83,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-24T00:00:00-06:00,,,Feet,17.84,Unknown,Unknown,17.84,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-25T00:00:00-06:00,,,Feet,17.86,Unknown,Unknown,17.86,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-26T00:00:00-06:00,,,Feet,17.87,Unknown,Unknown,17.87,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-27T00:00:00-06:00,,,Feet,17.88,Unknown,Unknown,17.88,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-28T00:00:00-06:00,,,Feet,17.90,Unknown,Unknown,17.90,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-29T00:00:00-06:00,,,Feet,17.89,Unknown,Unknown,17.89,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-09-30T00:00:00-06:00,,,Feet,17.88,Unknown,Unknown,17.88,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-01T00:00:00-06:00,,,Feet,17.91,Unknown,Unknown,17.91,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-02T00:00:00-06:00,,,Feet,17.93,Unknown,Unknown,17.93,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-03T00:00:00-06:00,,,Feet,17.93,Unknown,Unknown,17.93,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-04T00:00:00-06:00,,,Feet,17.93,Unknown,Unknown,17.93,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-05T00:00:00-06:00,,,Feet,17.96,Unknown,Unknown,17.96,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-06T00:00:00-06:00,,,Feet,17.97,Unknown,Unknown,17.97,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-07T00:00:00-06:00,,,Feet,17.98,Unknown,Unknown,17.98,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-08T00:00:00-06:00,,,Feet,17.99,Unknown,Unknown,17.99,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-09T00:00:00-06:00,,,Feet,17.99,Unknown,Unknown,17.99,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-10T00:00:00-06:00,,,Feet,17.99,Unknown,Unknown,17.99,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-11T00:00:00-06:00,,,Feet,17.99,Unknown,Unknown,17.99,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-12T00:00:00-06:00,,,Feet,18.01,Unknown,Unknown,18.01,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-13T00:00:00-06:00,,,Feet,18.02,Unknown,Unknown,18.02,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-14T00:00:00-06:00,,,Feet,18.01,Unknown,Unknown,18.01,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-15T00:00:00-06:00,,,Feet,18.03,Unknown,Unknown,18.03,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-16T00:00:00-06:00,,,Feet,18.03,Unknown,Unknown,18.03,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-17T00:00:00-06:00,,,Feet,18.07,Unknown,Unknown,18.07,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-18T00:00:00-06:00,,,Feet,18.09,Unknown,Unknown,18.09,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-19T00:00:00-06:00,,,Feet,18.08,Unknown,Unknown,18.08,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-20T00:00:00-06:00,,,Feet,18.07,Unknown,Unknown,18.07,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-21T00:00:00-06:00,,,Feet,18.06,Unknown,Unknown,18.06,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-22T00:00:00-06:00,,,Feet,18.07,Unknown,Unknown,18.07,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-23T00:00:00-06:00,,,Feet,18.08,Unknown,Unknown,18.08,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-24T00:00:00-06:00,,,Feet,18.09,Unknown,Unknown,18.09,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-25T00:00:00-06:00,,,Feet,18.13,Unknown,Unknown,18.13,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-26T00:00:00-06:00,,,Feet,18.12,Unknown,Unknown,18.12,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-27T00:00:00-06:00,,,Feet,18.12,Unknown,Unknown,18.12,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-28T00:00:00-06:00,,,Feet,18.16,Unknown,Unknown,18.16,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-29T00:00:00-06:00,,,Feet,18.16,Unknown,Unknown,18.16,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-30T00:00:00-06:00,,,Feet,18.16,Unknown,Unknown,18.16,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-10-31T00:00:00-06:00,,,Feet,18.18,Unknown,Unknown,18.18,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-01T00:00:00-06:00,,,Feet,18.20,Unknown,Unknown,18.20,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-02T00:00:00-06:00,,,Feet,18.19,Unknown,Unknown,18.19,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-03T00:00:00-06:00,,,Feet,18.17,Unknown,Unknown,18.17,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-04T00:00:00-06:00,,,Feet,18.18,Unknown,Unknown,18.18,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-05T00:00:00-06:00,,,Feet,18.20,Unknown,Unknown,18.20,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-06T00:00:00-06:00,,,Feet,18.22,Unknown,Unknown,18.22,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-07T00:00:00-06:00,,,Feet,18.26,Unknown,Unknown,18.26,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-08T00:00:00-06:00,,,Feet,18.25,Unknown,Unknown,18.25,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-09T00:00:00-06:00,,,Feet,18.24,Unknown,Unknown,18.24,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-10T00:00:00-06:00,,,Feet,18.24,Unknown,Unknown,18.24,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-11T00:00:00-06:00,,,Feet,18.28,Unknown,Unknown,18.28,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-12T00:00:00-06:00,,,Feet,18.31,Unknown,Unknown,18.31,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-13T00:00:00-06:00,,,Feet,18.26,Unknown,Unknown,18.26,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-14T00:00:00-06:00,,,Feet,18.26,Unknown,Unknown,18.26,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-15T00:00:00-06:00,,,Feet,18.34,Unknown,Unknown,18.34,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-16T00:00:00-06:00,,,Feet,18.36,Unknown,Unknown,18.36,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-17T00:00:00-06:00,,,Feet,18.33,Unknown,Unknown,18.33,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-18T00:00:00-06:00,,,Feet,18.35,Unknown,Unknown,18.35,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-19T00:00:00-06:00,,,Feet,18.38,Unknown,Unknown,18.38,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-20T00:00:00-06:00,,,Feet,18.37,Unknown,Unknown,18.37,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-21T00:00:00-06:00,,,Feet,18.38,Unknown,Unknown,18.38,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-22T00:00:00-06:00,,,Feet,18.38,Unknown,Unknown,18.38,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-23T00:00:00-06:00,,,Feet,18.36,Unknown,Unknown,18.36,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-24T00:00:00-06:00,,,Feet,18.37,Unknown,Unknown,18.37,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-25T00:00:00-06:00,,,Feet,18.41,Unknown,Unknown,18.41,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-26T00:00:00-06:00,,,Feet,18.36,Unknown,Unknown,18.36,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-27T00:00:00-06:00,,,Feet,18.39,Unknown,Unknown,18.39,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-28T00:00:00-06:00,,,Feet,18.41,Unknown,Unknown,18.41,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-29T00:00:00-06:00,,,Feet,18.42,Unknown,Unknown,18.42,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-11-30T00:00:00-06:00,,,Feet,18.49,Unknown,Unknown,18.49,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-01T00:00:00-06:00,,,Feet,18.45,Unknown,Unknown,18.45,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-02T00:00:00-06:00,,,Feet,18.45,Unknown,Unknown,18.45,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-03T00:00:00-06:00,,,Feet,18.51,Unknown,Unknown,18.51,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-04T00:00:00-06:00,,,Feet,18.46,Unknown,Unknown,18.46,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-05T00:00:00-06:00,,,Feet,18.44,Unknown,Unknown,18.44,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-06T00:00:00-06:00,,,Feet,18.47,Unknown,Unknown,18.47,2933,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-07T00:00:00-06:00,,,Feet,18.54,Unknown,Unknown,18.54,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-08T00:00:00-06:00,,,Feet,18.55,Unknown,Unknown,18.55,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-09T00:00:00-06:00,,,Feet,18.54,Unknown,Unknown,18.54,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-10T00:00:00-06:00,,,Feet,18.55,Unknown,Unknown,18.55,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-11T00:00:00-06:00,,,Feet,18.56,Unknown,Unknown,18.56,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-12T00:00:00-06:00,,,Feet,18.52,Unknown,Unknown,18.52,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-13T00:00:00-06:00,,,Feet,18.54,Unknown,Unknown,18.54,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-14T00:00:00-06:00,,,Feet,18.59,Unknown,Unknown,18.59,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-15T09:22:00-06:00,,,Feet,18.50,Unknown,Unknown,18.50,2933,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803601,2022-12-16T00:00:00-06:00,,,Feet,18.62,Unknown,Unknown,18.62,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-17T00:00:00-06:00,,,Feet,18.62,Unknown,Unknown,18.62,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-18T00:00:00-06:00,,,Feet,18.61,Unknown,Unknown,18.61,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-19T00:00:00-06:00,,,Feet,18.64,Unknown,Unknown,18.64,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-20T00:00:00-06:00,,,Feet,18.67,Unknown,Unknown,18.67,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-21T00:00:00-06:00,,,Feet,18.61,Unknown,Unknown,18.61,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-22T00:00:00-06:00,,,Feet,18.60,Unknown,Unknown,18.60,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-23T00:00:00-06:00,,,Feet,18.70,Unknown,Unknown,18.70,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-24T00:00:00-06:00,,,Feet,18.68,Unknown,Unknown,18.68,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-25T00:00:00-06:00,,,Feet,18.67,Unknown,Unknown,18.67,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-26T00:00:00-06:00,,,Feet,18.67,Unknown,Unknown,18.67,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-27T00:00:00-06:00,,,Feet,18.66,Unknown,Unknown,18.66,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-28T00:00:00-06:00,,,Feet,18.65,Unknown,Unknown,18.65,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-29T00:00:00-06:00,,,Feet,18.71,Unknown,Unknown,18.71,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2803601,2022-12-30T00:00:00-06:00,,,Feet,18.73,Unknown,Unknown,18.73,2932,measurement point: land surface,Recorder (Float or Transducer),U.S. Geological Survey
+TWDB,2812402,1993-01-19T00:00:00-06:00,,,Feet,23.60,Unknown,Unknown,23.60,2918,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1994-02-08T00:00:00-06:00,,,Feet,27.25,Unknown,Unknown,27.25,2915,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1995-02-12T00:00:00-06:00,,,Feet,28.97,Unknown,Unknown,28.97,2913,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1996-06-12T00:00:00-06:00,,,Feet,29.95,Unknown,Unknown,29.95,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1996-12-03T00:00:00-06:00,,,Feet,30.15,Unknown,Unknown,30.15,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1997-12-15T00:00:00-06:00,,,Feet,28.37,Unknown,Unknown,28.37,2914,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1998-12-08T00:00:00-06:00,,,Feet,30.35,Unknown,Unknown,30.35,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,1999-12-14T00:00:00-06:00,,,Feet,30.15,Unknown,Unknown,30.15,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2000-12-05T00:00:00-06:00,,,Feet,30.60,Unknown,Unknown,30.60,2911,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2002-01-10T00:00:00-06:00,,,Feet,32.15,Unknown,Unknown,32.15,2910,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2003-12-08T00:00:00-06:00,,,Feet,32.75,Unknown,Unknown,32.75,2909,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2004-12-08T00:00:00-06:00,,,Feet,29.90,Unknown,Unknown,29.90,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2005-11-30T00:00:00-06:00,,,Feet,28.29,Unknown,Unknown,28.29,2914,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2007-01-02T00:00:00-06:00,,,Feet,31.25,Unknown,Unknown,31.25,2911,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2007-12-17T00:00:00-06:00,,,Feet,26.50,Unknown,Unknown,26.50,2916,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2008-12-03T00:00:00-06:00,,,Feet,26.65,Unknown,Unknown,26.65,2915,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2010-01-13T00:00:00-06:00,,,Feet,28.23,Unknown,Unknown,28.23,2914,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2010-12-29T00:00:00-06:00,,,Feet,29.00,Unknown,Unknown,29.00,2913,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2011-12-14T00:00:00-06:00,,,Feet,32.94,Unknown,Unknown,32.94,2909,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2012-12-19T10:29:00-06:00,,,Feet,34.60,Unknown,Unknown,34.60,2907,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2812402,2013-11-18T16:25:00-06:00,,,Feet,32.70,Unknown,Unknown,32.70,2909,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2014-12-16T10:20:00-06:00,,,Feet,30.40,Unknown,Unknown,30.40,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2015-12-11T10:26:00-06:00,,,Feet,27.97,Unknown,Unknown,27.97,2914,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2017-01-10T10:20:00-06:00,,,Feet,29.53,Unknown,Unknown,29.53,2912,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2018-01-24T08:10:00-06:00,,,Feet,31.30,Unknown,Unknown,31.30,2911,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2019-01-15T09:56:00-06:00,,,Feet,31.04,Unknown,Unknown,31.04,2911,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2019-12-11T16:22:00-06:00,,,Feet,31.86,Unknown,Unknown,31.86,2910,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2812402,2021-01-08T16:21:00-06:00,,,Feet,32.45,Unknown,Unknown,32.45,2910,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2812402,2021-12-10T13:20:00-06:00,,,Feet,32.43,Unknown,Unknown,32.43,2910,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2812402,2022-12-15T08:05:00-06:00,,,Feet,32.58,Unknown,Unknown,32.58,2909,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803901,1993-01-19T00:00:00-06:00,,,Feet,11.86,Unknown,Unknown,11.86,2951,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1994-02-08T00:00:00-06:00,,,Feet,16.10,Unknown,Unknown,16.10,2947,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1995-12-13T00:00:00-06:00,,,Feet,22.15,Unknown,Unknown,22.15,2941,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1996-06-12T00:00:00-06:00,,,Feet,22.70,Unknown,Unknown,22.70,2940,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1996-12-03T00:00:00-06:00,,,Feet,24.25,Unknown,Unknown,24.25,2939,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1997-12-15T00:00:00-06:00,,,Feet,20.02,Unknown,Unknown,20.02,2943,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1998-12-08T00:00:00-06:00,,,Feet,23.55,Unknown,Unknown,23.55,2939,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,1999-12-14T00:00:00-06:00,,,Feet,21.75,Unknown,Unknown,21.75,2941,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2000-12-05T00:00:00-06:00,,,Feet,21.10,Unknown,Unknown,21.10,2942,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2002-01-10T00:00:00-06:00,,,Feet,25.50,Unknown,Unknown,25.50,2938,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2002-12-11T00:00:00-06:00,,,Feet,26.29,Unknown,Unknown,26.29,2937,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2003-12-08T00:00:00-06:00,,,Feet,28.15,Unknown,Unknown,28.15,2935,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2004-12-08T00:00:00-06:00,,,Feet,22.70,Unknown,Unknown,22.70,2940,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2005-11-30T00:00:00-06:00,,,Feet,17.05,Unknown,Unknown,17.05,2946,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2007-12-17T00:00:00-06:00,,,Feet,15.35,Unknown,Unknown,15.35,2948,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2008-12-03T00:00:00-06:00,,,Feet,16.52,Unknown,Unknown,16.52,2946,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2010-01-13T00:00:00-06:00,,,Feet,18.14,Unknown,Unknown,18.14,2945,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2010-12-29T00:00:00-06:00,,,Feet,14.02,Unknown,Unknown,14.02,2949,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2011-12-14T00:00:00-06:00,,,Feet,17.41,Unknown,Unknown,17.41,2946,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2012-12-19T11:48:00-06:00,,,Feet,20.30,Unknown,Unknown,20.30,2943,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,2803901,2013-11-18T16:55:00-06:00,,,Feet,22.64,Unknown,Unknown,22.64,2940,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2014-12-16T00:00:00-06:00,,,Feet,22.67,Unknown,Unknown,22.67,2940,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2015-12-11T00:00:00-06:00,,,Feet,19.25,Unknown,Unknown,19.25,2944,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2017-01-10T10:45:00-06:00,,,Feet,17.58,Unknown,Unknown,17.58,2945,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2018-01-23T14:02:00-06:00,,,Feet,17.89,Unknown,Unknown,17.89,2945,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2019-01-15T09:17:00-06:00,,,Feet,20.50,Unknown,Unknown,20.50,2943,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2019-12-11T15:39:00-06:00,,,Feet,21.67,Unknown,Unknown,21.67,2941,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2021-01-08T17:04:00-06:00,,,Feet,22.54,Unknown,Unknown,22.54,2940,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2021-12-10T13:59:00-06:00,,,Feet,20.79,Unknown,Unknown,20.79,2942,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2803901,2022-12-15T09:06:00-06:00,,,Feet,23.64,Unknown,Unknown,23.64,2939,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1993-01-19T00:00:00-06:00,,,Feet,10.30,Unknown,Unknown,10.30,2936,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1994-02-08T00:00:00-06:00,,,Feet,12.70,Unknown,Unknown,12.70,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1995-02-12T00:00:00-06:00,,,Feet,14.79,Unknown,Unknown,14.79,2931,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1995-12-13T00:00:00-06:00,,,Feet,15.91,Unknown,Unknown,15.91,2930,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1996-12-03T00:00:00-06:00,,,Feet,16.95,Unknown,Unknown,16.95,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1997-12-15T00:00:00-06:00,,,Feet,14.70,Unknown,Unknown,14.70,2931,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1998-12-08T00:00:00-06:00,,,Feet,17.00,Unknown,Unknown,17.00,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,1999-12-14T00:00:00-06:00,,,Feet,17.45,Unknown,Unknown,17.45,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2000-12-05T00:00:00-06:00,,,Feet,19.00,Unknown,Unknown,19.00,2927,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2002-01-10T00:00:00-06:00,,,Feet,20.05,Unknown,Unknown,20.05,2926,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2002-12-11T00:00:00-06:00,,,Feet,20.88,Unknown,Unknown,20.88,2925,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2003-12-08T00:00:00-06:00,,,Feet,22.80,Unknown,Unknown,22.80,2923,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2004-12-08T00:00:00-06:00,,,Feet,20.65,Unknown,Unknown,20.65,2925,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2005-11-30T00:00:00-06:00,,,Feet,18.67,Unknown,Unknown,18.67,2927,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2007-01-02T00:00:00-06:00,,,Feet,17.79,Unknown,Unknown,17.79,2928,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2007-12-17T00:00:00-06:00,,,Feet,12.80,Unknown,Unknown,12.80,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2008-12-03T00:00:00-06:00,,,Feet,13.05,Unknown,Unknown,13.05,2933,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2010-01-13T00:00:00-06:00,,,Feet,14.15,Unknown,Unknown,14.15,2932,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2010-12-29T00:00:00-06:00,,,Feet,11.70,Unknown,Unknown,11.70,2934,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2013-11-18T16:35:00-06:00,,,Feet,17.53,Unknown,Unknown,17.53,2928,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2014-12-16T10:01:00-06:00,,,Feet,15.01,Unknown,Unknown,15.01,2931,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2015-12-11T10:11:00-06:00,,,Feet,12.18,Unknown,Unknown,12.18,2934,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2017-01-10T10:30:00-06:00,,,Feet,13.70,Unknown,Unknown,13.70,2932,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2018-01-23T13:40:00-06:00,,,Feet,14.78,Unknown,Unknown,14.78,2931,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2019-01-15T09:34:00-06:00,,,Feet,16.59,Unknown,Unknown,16.59,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2019-12-11T16:03:00-06:00,,,Feet,17.37,Unknown,Unknown,17.37,2929,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2021-01-08T16:43:00-06:00,,,Feet,18.77,Unknown,Unknown,18.77,2927,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,2804702,2021-12-10T13:35:00-06:00,,,Feet,15.78,Unknown,Unknown,15.78,2930,measurement point: land surface,Steel Tape,Texas Water Development Board

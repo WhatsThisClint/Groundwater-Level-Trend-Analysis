@@ -1,0 +1,6 @@
+AgencyCd,SiteNo,Time,Original Parameter,Original Direction,Original Unit,Original Value,Accuracy Unit,Accuracy Value,Depth to Water Below Land Surface in ft.,Water level in feet relative to NAVD88,Comment,Observation Method,Data Provided by,
+CODWR,152905,2017-02-21T00:00:00-07:00,,,ft,68.00,UNKNOWN,Unknown,68.00,5087,,UNKNOWN,DWR (Manual)
+CODWR,152905,2018-03-17T00:00:00-06:00,,,ft,68.00,UNKNOWN,Unknown,68.00,5087,,UNKNOWN,DWR (Manual)
+CODWR,152905,2019-02-04T00:00:00-07:00,,,ft,68.00,UNKNOWN,Unknown,68.00,5087,,UNKNOWN,DWR (Manual)
+CODWR,152905,2021-02-24T00:00:00-07:00,,,ft,68.20,UNKNOWN,Unknown,68.20,5087,,UNKNOWN,DWR (Manual)
+CODWR,152905,2022-03-27T00:00:00-06:00,,,ft,69.00,UNKNOWN,Unknown,69.00,5086,,UNKNOWN,DWR (Manual)

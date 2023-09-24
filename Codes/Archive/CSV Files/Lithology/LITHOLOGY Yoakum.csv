@@ -1,0 +1,7 @@
+"AgencyCd","SiteNo","LithologyID","LithologyDescription","LithologyControlledConcept","lang","uom","LithologyDepthFrom","LithologyDepthFromUnit","LithologyDepthTo","LithologyDepthToUnit"
+"TWDB","2457101","TWDB.2457101.LITH.1","Top Soil","","eng","ft","0.00","feet","2.00","feet"
+"TWDB","2457101","TWDB.2457101.LITH.2","Caliche Rock","","eng","ft","2.00","feet","31.00","feet"
+"TWDB","2457101","TWDB.2457101.LITH.3","Sandy Clay w/ Hard Rock Layer","","eng","ft","31.00","feet","105.00","feet"
+"TWDB","2457101","TWDB.2457101.LITH.4","Water Sand","","eng","ft","105.00","feet","179.00","feet"
+"TWDB","2457101","TWDB.2457101.LITH.5","Sandy Clay","","eng","ft","179.00","feet","183.00","feet"
+"TWDB","2457101","TWDB.2457101.LITH.6","Yellow and Blue Clay","","eng","ft","183.00","feet","186.00","feet"

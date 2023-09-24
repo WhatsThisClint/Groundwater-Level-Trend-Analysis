@@ -1,0 +1,793 @@
+AgencyCd,SiteNo,Time,Original Parameter,Original Direction,Original Unit,Original Value,Accuracy Unit,Accuracy Value,Depth to Water Below Land Surface in ft.,Water level in feet relative to NAVD88,Comment,Observation Method,Data Provided by,
+TWDB,0602902,1993-01-25T00:00:00-06:00,,,Feet,334.28,Unknown,Unknown,334.28,3167,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,1994-02-14T00:00:00-06:00,,,Feet,337.03,Unknown,Unknown,337.03,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,1995-03-23T00:00:00-06:00,,,Feet,338.75,Unknown,Unknown,338.75,3162,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,1996-02-21T00:00:00-06:00,,,Feet,329.40,Unknown,Unknown,329.40,3172,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,1997-01-17T00:00:00-06:00,,,Feet,333.65,Unknown,Unknown,333.65,3167,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602902,1998-01-14T00:00:00-06:00,,,Feet,338.04,Unknown,Unknown,338.04,3163,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2008-01-04T00:00:00-06:00,,,Feet,350.18,Unknown,Unknown,350.18,3151,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2009-02-20T00:00:00-06:00,,,Feet,322.35,Unknown,Unknown,322.35,3179,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2010-01-11T00:00:00-06:00,,,Feet,338.42,Unknown,Unknown,338.42,3163,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2011-02-16T00:00:00-06:00,,,Feet,343.60,Unknown,Unknown,343.60,3157,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2012-01-05T00:00:00-06:00,,,Feet,352.40,Unknown,Unknown,352.40,3149,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2013-01-28T00:00:00-06:00,,,Feet,347.50,Unknown,Unknown,347.50,3154,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2014-01-16T00:00:00-06:00,,,Feet,318.00,Unknown,Unknown,318.00,3183,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2015-02-03T00:00:00-06:00,,,Feet,325.45,Unknown,Unknown,325.45,3176,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2016-01-11T00:00:00-06:00,,,Feet,318.10,Unknown,Unknown,318.10,3183,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2017-01-31T00:00:00-06:00,,,Feet,329.00,Unknown,Unknown,329.00,3172,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2018-02-09T00:00:00-06:00,,,Feet,340.50,Unknown,Unknown,340.50,3161,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2020-01-23T00:00:00-06:00,,,Feet,340.05,Unknown,Unknown,340.05,3161,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602902,2021-01-27T00:00:00-06:00,,,Feet,320.81,Unknown,Unknown,320.81,3180,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602902,2022-02-15T00:00:00-06:00,,,Feet,323.30,Unknown,Unknown,323.30,3178,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0716302,1994-01-24T00:00:00-06:00,,,Feet,309.27,Unknown,Unknown,309.27,3395,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,1996-02-09T00:00:00-06:00,,,Feet,329.10,Unknown,Unknown,329.10,3375,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,1998-01-19T00:00:00-06:00,,,Feet,319.37,Unknown,Unknown,319.37,3385,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2000-01-24T00:00:00-06:00,,,Feet,312.58,Unknown,Unknown,312.58,3391,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2001-04-09T00:00:00-06:00,,,Feet,311.56,Unknown,Unknown,311.56,3392,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2002-01-09T00:00:00-06:00,,,Feet,311.65,Unknown,Unknown,311.65,3392,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2003-02-18T00:00:00-06:00,,,Feet,314.10,Unknown,Unknown,314.10,3390,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2004-03-11T00:00:00-06:00,,,Feet,315.64,Unknown,Unknown,315.64,3388,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2005-03-08T00:00:00-06:00,,,Feet,313.24,Unknown,Unknown,313.24,3391,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2006-01-24T00:00:00-06:00,,,Feet,319.35,Unknown,Unknown,319.35,3385,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2007-01-18T00:00:00-06:00,,,Feet,312.54,Unknown,Unknown,312.54,3391,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2007-12-20T00:00:00-06:00,,,Feet,314.47,Unknown,Unknown,314.47,3390,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2009-02-18T00:00:00-06:00,,,Feet,319.82,Unknown,Unknown,319.82,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2011-02-16T00:00:00-06:00,,,Feet,315.88,Unknown,Unknown,315.88,3388,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2012-01-06T00:00:00-06:00,,,Feet,315.80,Unknown,Unknown,315.80,3388,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2013-01-18T00:00:00-06:00,,,Feet,318.68,Unknown,Unknown,318.68,3385,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2015-02-13T00:00:00-06:00,,,Feet,329.12,Unknown,Unknown,329.12,3375,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2017-01-25T00:00:00-06:00,,,Feet,340.31,Unknown,Unknown,340.31,3364,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716302,2018-01-24T00:00:00-06:00,,,Feet,344.00,Unknown,Unknown,344.00,3360,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0716302,2019-01-15T00:00:00-06:00,,,Feet,321.30,Unknown,Unknown,321.30,3383,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602802,1993-01-25T00:00:00-06:00,,,Feet,293.12,Unknown,Unknown,293.12,3214,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,1994-02-14T00:00:00-06:00,,,Feet,295.05,Unknown,Unknown,295.05,3212,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,1995-03-24T00:00:00-06:00,,,Feet,296.68,Unknown,Unknown,296.68,3210,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,1996-02-13T00:00:00-06:00,,,Feet,310.60,Unknown,Unknown,310.60,3196,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,1997-01-09T00:00:00-06:00,,,Feet,311.38,Unknown,Unknown,311.38,3196,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602802,1998-01-13T00:00:00-06:00,,,Feet,313.04,Unknown,Unknown,313.04,3194,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2000-01-12T00:00:00-06:00,,,Feet,318.12,Unknown,Unknown,318.12,3189,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2001-04-09T00:00:00-06:00,,,Feet,313.89,Unknown,Unknown,313.89,3193,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2002-02-27T00:00:00-06:00,,,Feet,312.77,Unknown,Unknown,312.77,3194,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2004-02-10T00:00:00-06:00,,,Feet,316.33,Unknown,Unknown,316.33,3191,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2005-03-07T00:00:00-06:00,,,Feet,316.64,Unknown,Unknown,316.64,3190,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2006-01-19T00:00:00-06:00,,,Feet,315.02,Unknown,Unknown,315.02,3192,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2007-01-16T00:00:00-06:00,,,Feet,320.39,Unknown,Unknown,320.39,3187,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2008-01-03T00:00:00-06:00,,,Feet,318.40,Unknown,Unknown,318.40,3189,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2009-02-20T00:00:00-06:00,,,Feet,323.30,Unknown,Unknown,323.30,3184,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2010-01-12T00:00:00-06:00,,,Feet,335.50,Unknown,Unknown,335.50,3172,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2011-02-16T00:00:00-06:00,,,Feet,328.00,Unknown,Unknown,328.00,3179,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2012-01-05T00:00:00-06:00,,,Feet,323.05,Unknown,Unknown,323.05,3184,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2014-01-16T00:00:00-06:00,,,Feet,331.70,Unknown,Unknown,331.70,3175,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2015-02-03T00:00:00-06:00,,,Feet,335.43,Unknown,Unknown,335.43,3172,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2016-02-17T00:00:00-06:00,,,Feet,330.12,Unknown,Unknown,330.12,3177,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2017-01-30T00:00:00-06:00,,,Feet,331.51,Unknown,Unknown,331.51,3175,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602802,2018-02-27T00:00:00-06:00,,,Feet,331.90,Unknown,Unknown,331.90,3175,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602802,2019-01-21T00:00:00-06:00,,,Feet,335.40,Unknown,Unknown,335.40,3172,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602802,2020-01-10T00:00:00-06:00,,,Feet,334.23,Unknown,Unknown,334.23,3173,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602802,2021-01-27T00:00:00-06:00,,,Feet,335.24,Unknown,Unknown,335.24,3172,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602802,2022-01-28T00:00:00-06:00,,,Feet,340.21,Unknown,Unknown,340.21,3167,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0618501,1994-02-08T00:00:00-06:00,,,Feet,104.78,Unknown,Unknown,104.78,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,1994-12-06T00:00:00-06:00,,,Feet,104.60,Unknown,Unknown,104.60,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,1996-12-14T00:00:00-06:00,,,Feet,107.00,Unknown,Unknown,107.00,3253,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,1997-12-12T00:00:00-06:00,,,Feet,106.20,Unknown,Unknown,106.20,3254,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,1998-12-13T00:00:00-06:00,,,Feet,105.82,Unknown,Unknown,105.82,3254,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,1999-12-13T00:00:00-06:00,,,Feet,104.98,Unknown,Unknown,104.98,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2000-12-09T00:00:00-06:00,,,Feet,105.20,Unknown,Unknown,105.20,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2001-12-15T00:00:00-06:00,,,Feet,105.98,Unknown,Unknown,105.98,3254,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2003-12-17T00:00:00-06:00,,,Feet,105.34,Unknown,Unknown,105.34,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2004-07-20T00:00:00-06:00,,,Feet,104.97,Unknown,Unknown,104.97,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2004-12-15T00:00:00-06:00,,,Feet,104.85,Unknown,Unknown,104.85,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2005-11-01T00:00:00-06:00,,,Feet,105.17,Unknown,Unknown,105.17,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2006-12-03T00:00:00-06:00,,,Feet,105.72,Unknown,Unknown,105.72,3254,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2007-12-08T00:00:00-06:00,,,Feet,105.25,Unknown,Unknown,105.25,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2008-12-12T00:00:00-06:00,,,Feet,105.33,Unknown,Unknown,105.33,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2009-11-06T00:00:00-06:00,,,Feet,105.14,Unknown,Unknown,105.14,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2011-01-25T00:00:00-06:00,,,Feet,105.40,Unknown,Unknown,105.40,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2012-01-10T00:00:00-06:00,,,Feet,111.36,Unknown,Unknown,111.36,3249,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2012-12-06T00:00:00-06:00,,,Feet,105.36,Unknown,Unknown,105.36,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2013-12-10T00:00:00-06:00,,,Feet,104.88,Unknown,Unknown,104.88,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2014-12-10T00:00:00-06:00,,,Feet,109.31,Unknown,Unknown,109.31,3251,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2016-11-29T09:10:00-06:00,,,Feet,105.50,Unknown,Unknown,105.50,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2017-12-07T10:00:00-06:00,,,Feet,105.45,Unknown,Unknown,105.45,3255,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2018-12-05T15:08:00-06:00,,,Feet,105.51,Unknown,Unknown,105.51,3254,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,0618501,2019-12-20T08:31:00-06:00,,,Feet,105.63,Unknown,Unknown,105.63,3254,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2020-12-14T11:31:00-06:00,,,Feet,105.52,Unknown,Unknown,105.52,3254,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0618501,2021-12-11T15:00:00-06:00,,,Feet,108.88,Unknown,Unknown,108.88,3251,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0611204,1994-02-14T00:00:00-06:00,,,Feet,252.24,Unknown,Unknown,252.24,3168,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,1994-12-06T00:00:00-06:00,,,Feet,268.80,Unknown,Unknown,268.80,3151,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0611204,1995-12-11T00:00:00-06:00,,,Feet,269.38,Unknown,Unknown,269.38,3151,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0611204,1996-02-21T00:00:00-06:00,,,Feet,252.20,Unknown,Unknown,252.20,3168,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,1996-12-13T00:00:00-06:00,,,Feet,258.03,Unknown,Unknown,258.03,3162,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0611204,1997-01-17T00:00:00-06:00,,,Feet,250.94,Unknown,Unknown,250.94,3169,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611204,1998-01-14T00:00:00-06:00,,,Feet,256.26,Unknown,Unknown,256.26,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2000-01-17T00:00:00-06:00,,,Feet,260.24,Unknown,Unknown,260.24,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2001-04-05T00:00:00-06:00,,,Feet,252.00,Unknown,Unknown,252.00,3168,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2002-02-26T00:00:00-06:00,,,Feet,257.72,Unknown,Unknown,257.72,3162,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2003-01-28T00:00:00-06:00,,,Feet,252.07,Unknown,Unknown,252.07,3168,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2004-02-05T00:00:00-06:00,,,Feet,250.98,Unknown,Unknown,250.98,3169,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2005-03-05T00:00:00-06:00,,,Feet,250.99,Unknown,Unknown,250.99,3169,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2006-01-18T00:00:00-06:00,,,Feet,250.84,Unknown,Unknown,250.84,3169,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2007-01-16T00:00:00-06:00,,,Feet,251.41,Unknown,Unknown,251.41,3169,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2008-01-04T00:00:00-06:00,,,Feet,251.42,Unknown,Unknown,251.42,3169,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2009-02-20T00:00:00-06:00,,,Feet,254.64,Unknown,Unknown,254.64,3165,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2010-01-11T00:00:00-06:00,,,Feet,253.00,Unknown,Unknown,253.00,3167,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2011-02-16T00:00:00-06:00,,,Feet,253.50,Unknown,Unknown,253.50,3167,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2012-01-05T00:00:00-06:00,,,Feet,261.89,Unknown,Unknown,261.89,3158,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2013-01-28T00:00:00-06:00,,,Feet,258.50,Unknown,Unknown,258.50,3162,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2014-01-16T00:00:00-06:00,,,Feet,261.10,Unknown,Unknown,261.10,3159,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2015-02-12T00:00:00-06:00,,,Feet,279.89,Unknown,Unknown,279.89,3140,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2016-01-28T00:00:00-06:00,,,Feet,258.90,Unknown,Unknown,258.90,3161,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2017-02-22T00:00:00-06:00,,,Feet,259.60,Unknown,Unknown,259.60,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2018-02-08T00:00:00-06:00,,,Feet,259.31,Unknown,Unknown,259.31,3161,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611204,2019-01-23T00:00:00-06:00,,,Feet,261.80,Unknown,Unknown,261.80,3158,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611204,2020-01-09T00:00:00-06:00,,,Feet,261.53,Unknown,Unknown,261.53,3158,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611204,2021-01-14T00:00:00-06:00,,,Feet,261.40,Unknown,Unknown,261.40,3159,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0611204,2022-02-16T00:00:00-06:00,,,Feet,283.90,Unknown,Unknown,283.90,3136,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0707304,2006-02-02T00:00:00-06:00,,,Feet,406.58,Unknown,Unknown,406.58,3350,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2009-02-23T00:00:00-06:00,,,Feet,408.74,Unknown,Unknown,408.74,3348,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2010-01-27T00:00:00-06:00,,,Feet,415.05,Unknown,Unknown,415.05,3342,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2011-01-21T00:00:00-06:00,,,Feet,418.07,Unknown,Unknown,418.07,3339,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2012-01-05T00:00:00-06:00,,,Feet,432.57,Unknown,Unknown,432.57,3324,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2013-01-16T00:00:00-06:00,,,Feet,429.20,Unknown,Unknown,429.20,3328,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2014-02-24T00:00:00-06:00,,,Feet,429.20,Unknown,Unknown,429.20,3328,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2016-02-24T00:00:00-06:00,,,Feet,436.52,Unknown,Unknown,436.52,3320,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0707304,2019-01-17T00:00:00-06:00,,,Feet,445.81,Unknown,Unknown,445.81,3311,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617601,1994-01-24T00:00:00-06:00,,,Feet,159.77,Unknown,Unknown,159.77,3385,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,1995-03-28T00:00:00-06:00,,,Feet,149.87,Unknown,Unknown,149.87,3395,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,1996-02-12T00:00:00-06:00,,,Feet,149.90,Unknown,Unknown,149.90,3395,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,1997-03-04T00:00:00-06:00,,,Feet,149.87,Unknown,Unknown,149.87,3395,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617601,1998-01-19T00:00:00-06:00,,,Feet,160.77,Unknown,Unknown,160.77,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2000-01-17T00:00:00-06:00,,,Feet,160.71,Unknown,Unknown,160.71,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2002-01-09T00:00:00-06:00,,,Feet,159.53,Unknown,Unknown,159.53,3385,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617601,2003-02-20T00:00:00-06:00,,,Feet,161.34,Unknown,Unknown,161.34,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2006-01-23T00:00:00-06:00,,,Feet,166.39,Unknown,Unknown,166.39,3379,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2007-01-18T00:00:00-06:00,,,Feet,165.34,Unknown,Unknown,165.34,3380,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2008-01-10T00:00:00-06:00,,,Feet,166.84,Unknown,Unknown,166.84,3378,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2009-02-17T00:00:00-06:00,,,Feet,159.10,Unknown,Unknown,159.10,3386,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2010-01-14T00:00:00-06:00,,,Feet,165.20,Unknown,Unknown,165.20,3380,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2011-02-15T00:00:00-06:00,,,Feet,160.63,Unknown,Unknown,160.63,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2012-01-13T00:00:00-06:00,,,Feet,160.85,Unknown,Unknown,160.85,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2013-01-23T00:00:00-06:00,,,Feet,165.50,Unknown,Unknown,165.50,3380,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2014-01-17T00:00:00-06:00,,,Feet,163.30,Unknown,Unknown,163.30,3382,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0617601,2018-01-25T00:00:00-06:00,,,Feet,167.00,Unknown,Unknown,167.00,3378,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0617601,2019-02-01T00:00:00-06:00,,,Feet,168.55,Unknown,Unknown,168.55,3376,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617601,2020-01-23T00:00:00-06:00,,,Feet,167.44,Unknown,Unknown,167.44,3378,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617601,2021-01-13T00:00:00-06:00,,,Feet,168.10,Unknown,Unknown,168.10,3377,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617601,2022-02-07T00:00:00-06:00,,,Feet,165.06,Unknown,Unknown,165.06,3380,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0357501,1993-01-05T00:00:00-06:00,,,Feet,268.19,Unknown,Unknown,268.19,3314,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,1994-03-16T00:00:00-06:00,,,Feet,270.05,Unknown,Unknown,270.05,3312,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,1995-03-22T00:00:00-06:00,,,Feet,273.13,Unknown,Unknown,273.13,3309,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,1996-02-22T00:00:00-06:00,,,Feet,277.80,Unknown,Unknown,277.80,3304,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,1997-01-23T00:00:00-06:00,,,Feet,276.75,Unknown,Unknown,276.75,3305,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0357501,2000-02-02T00:00:00-06:00,,,Feet,287.25,Unknown,Unknown,287.25,3295,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2003-02-04T00:00:00-06:00,,,Feet,289.65,Unknown,Unknown,289.65,3292,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2004-03-18T00:00:00-06:00,,,Feet,292.72,Unknown,Unknown,292.72,3289,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2005-03-09T00:00:00-06:00,,,Feet,305.09,Unknown,Unknown,305.09,3277,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2006-01-19T00:00:00-06:00,,,Feet,289.43,Unknown,Unknown,289.43,3293,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2007-01-17T00:00:00-06:00,,,Feet,291.67,Unknown,Unknown,291.67,3290,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2008-01-07T00:00:00-06:00,,,Feet,317.41,Unknown,Unknown,317.41,3265,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2010-01-18T00:00:00-06:00,,,Feet,348.45,Unknown,Unknown,348.45,3234,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2011-01-21T00:00:00-06:00,,,Feet,362.86,Unknown,Unknown,362.86,3219,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2012-01-06T00:00:00-06:00,,,Feet,362.32,Unknown,Unknown,362.32,3220,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2014-02-21T00:00:00-06:00,,,Feet,363.32,Unknown,Unknown,363.32,3219,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2015-01-19T00:00:00-06:00,,,Feet,369.75,Unknown,Unknown,369.75,3212,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2017-01-12T00:00:00-06:00,,,Feet,369.48,Unknown,Unknown,369.48,3213,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2019-01-10T00:00:00-06:00,,,Feet,380.25,Unknown,Unknown,380.25,3202,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0357501,2020-01-07T00:00:00-06:00,,,Feet,386.38,Unknown,Unknown,386.38,3196,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0357501,2021-01-19T00:00:00-06:00,,,Feet,388.10,Unknown,Unknown,388.10,3194,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0357501,2022-02-08T00:00:00-06:00,,,Feet,391.60,Unknown,Unknown,391.60,3190,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0603402,1993-01-25T00:00:00-06:00,,,Feet,267.33,Unknown,Unknown,267.33,3174,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,1994-02-14T00:00:00-06:00,,,Feet,272.48,Unknown,Unknown,272.48,3169,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,1997-01-09T00:00:00-06:00,,,Feet,273.63,Unknown,Unknown,273.63,3167,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0603402,1998-01-13T00:00:00-06:00,,,Feet,275.15,Unknown,Unknown,275.15,3166,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2000-01-12T00:00:00-06:00,,,Feet,277.56,Unknown,Unknown,277.56,3163,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2001-04-05T00:00:00-06:00,,,Feet,276.60,Unknown,Unknown,276.60,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2002-02-26T00:00:00-06:00,,,Feet,274.97,Unknown,Unknown,274.97,3166,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2003-02-18T00:00:00-06:00,,,Feet,281.12,Unknown,Unknown,281.12,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2004-02-05T00:00:00-06:00,,,Feet,279.95,Unknown,Unknown,279.95,3161,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2005-03-07T00:00:00-06:00,,,Feet,281.08,Unknown,Unknown,281.08,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2006-01-18T00:00:00-06:00,,,Feet,280.49,Unknown,Unknown,280.49,3161,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2007-01-16T00:00:00-06:00,,,Feet,281.36,Unknown,Unknown,281.36,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2008-01-04T00:00:00-06:00,,,Feet,286.66,Unknown,Unknown,286.66,3154,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2010-01-12T00:00:00-06:00,,,Feet,287.84,Unknown,Unknown,287.84,3153,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2012-01-05T00:00:00-06:00,,,Feet,293.81,Unknown,Unknown,293.81,3147,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2013-01-21T00:00:00-06:00,,,Feet,296.70,Unknown,Unknown,296.70,3144,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2015-02-12T00:00:00-06:00,,,Feet,299.14,Unknown,Unknown,299.14,3142,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2016-01-28T00:00:00-06:00,,,Feet,298.04,Unknown,Unknown,298.04,3143,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2017-02-22T00:00:00-06:00,,,Feet,299.40,Unknown,Unknown,299.40,3142,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2018-02-02T00:00:00-06:00,,,Feet,301.73,Unknown,Unknown,301.73,3139,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2019-01-23T00:00:00-06:00,,,Feet,310.20,Unknown,Unknown,310.20,3131,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2020-01-10T00:00:00-06:00,,,Feet,304.00,Unknown,Unknown,304.00,3137,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603402,2021-01-14T00:00:00-06:00,,,Feet,305.40,Unknown,Unknown,305.40,3136,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,1996-02-12T00:00:00-06:00,,,Feet,287.80,Unknown,Unknown,287.80,3414,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,1997-03-04T00:00:00-06:00,,,Feet,288.90,Unknown,Unknown,288.90,3413,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0716903,1998-01-19T00:00:00-06:00,,,Feet,290.72,Unknown,Unknown,290.72,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2000-01-17T00:00:00-06:00,,,Feet,290.17,Unknown,Unknown,290.17,3412,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2001-04-10T00:00:00-06:00,,,Feet,289.84,Unknown,Unknown,289.84,3412,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2002-01-09T00:00:00-06:00,,,Feet,290.26,Unknown,Unknown,290.26,3412,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2003-01-09T00:00:00-06:00,,,Feet,290.87,Unknown,Unknown,290.87,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2004-03-10T00:00:00-06:00,,,Feet,290.59,Unknown,Unknown,290.59,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2005-03-08T00:00:00-06:00,,,Feet,290.42,Unknown,Unknown,290.42,3412,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2006-01-23T00:00:00-06:00,,,Feet,290.67,Unknown,Unknown,290.67,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2007-01-18T00:00:00-06:00,,,Feet,290.98,Unknown,Unknown,290.98,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2008-01-09T00:00:00-06:00,,,Feet,290.98,Unknown,Unknown,290.98,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2009-02-18T00:00:00-06:00,,,Feet,291.48,Unknown,Unknown,291.48,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2010-01-15T00:00:00-06:00,,,Feet,292.36,Unknown,Unknown,292.36,3410,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2011-02-15T00:00:00-06:00,,,Feet,293.11,Unknown,Unknown,293.11,3409,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2012-01-17T00:00:00-06:00,,,Feet,293.80,Unknown,Unknown,293.80,3408,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2013-01-23T00:00:00-06:00,,,Feet,295.18,Unknown,Unknown,295.18,3407,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2014-01-17T00:00:00-06:00,,,Feet,291.18,Unknown,Unknown,291.18,3411,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2015-02-06T00:00:00-06:00,,,Feet,297.50,Unknown,Unknown,297.50,3405,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2017-01-31T00:00:00-06:00,,,Feet,297.00,Unknown,Unknown,297.00,3405,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0716903,2018-01-25T00:00:00-06:00,,,Feet,297.00,Unknown,Unknown,297.00,3405,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0716903,2019-02-01T00:00:00-06:00,,,Feet,298.20,Unknown,Unknown,298.20,3404,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0716903,2020-01-23T00:00:00-06:00,,,Feet,298.48,Unknown,Unknown,298.48,3404,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0716903,2021-01-13T00:00:00-06:00,,,Feet,298.00,Unknown,Unknown,298.00,3404,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,1993-01-05T00:00:00-06:00,,,Feet,292.63,Unknown,Unknown,292.63,3299,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,1994-03-16T00:00:00-06:00,,,Feet,292.29,Unknown,Unknown,292.29,3300,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,1995-03-22T00:00:00-06:00,,,Feet,292.57,Unknown,Unknown,292.57,3299,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,1996-02-14T00:00:00-06:00,,,Feet,291.10,Unknown,Unknown,291.10,3301,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,1997-01-23T00:00:00-06:00,,,Feet,291.15,Unknown,Unknown,291.15,3301,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,1998-03-12T00:00:00-06:00,,,Feet,291.96,Unknown,Unknown,291.96,3300,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2000-02-02T00:00:00-06:00,,,Feet,295.66,Unknown,Unknown,295.66,3296,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2001-03-14T00:00:00-06:00,,,Feet,289.34,Unknown,Unknown,289.34,3303,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2002-02-06T00:00:00-06:00,,,Feet,292.75,Unknown,Unknown,292.75,3299,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2003-02-13T00:00:00-06:00,,,Feet,299.34,Unknown,Unknown,299.34,3293,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2004-02-27T00:00:00-06:00,,,Feet,290.89,Unknown,Unknown,290.89,3301,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2005-03-07T00:00:00-06:00,,,Feet,302.09,Unknown,Unknown,302.09,3290,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2007-01-17T00:00:00-06:00,,,Feet,303.98,Unknown,Unknown,303.98,3288,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2008-01-07T00:00:00-06:00,,,Feet,303.32,Unknown,Unknown,303.32,3289,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2010-01-18T00:00:00-06:00,,,Feet,307.87,Unknown,Unknown,307.87,3284,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2011-01-14T00:00:00-06:00,,,Feet,291.33,Unknown,Unknown,291.33,3301,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,2012-01-06T00:00:00-06:00,,,Feet,303.62,Unknown,Unknown,303.62,3288,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2013-01-18T00:00:00-06:00,,,Feet,303.56,Unknown,Unknown,303.56,3288,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2014-01-20T00:00:00-06:00,,,Feet,301.27,Unknown,Unknown,301.27,3291,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2016-01-21T00:00:00-06:00,,,Feet,291.33,Unknown,Unknown,291.33,3301,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,2017-01-12T00:00:00-06:00,,,Feet,291.85,Unknown,Unknown,291.85,3300,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,2018-01-23T00:00:00-06:00,,,Feet,291.90,Unknown,Unknown,291.90,3300,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0601201,2019-01-09T00:00:00-06:00,,,Feet,292.19,Unknown,Unknown,292.19,3300,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,2020-01-07T00:00:00-06:00,,,Feet,291.81,Unknown,Unknown,291.81,3300,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601201,2021-01-19T00:00:00-06:00,,,Feet,307.15,Unknown,Unknown,307.15,3285,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601201,2022-01-28T00:00:00-06:00,,,Feet,293.97,Unknown,Unknown,293.97,3298,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601803,1993-01-25T00:00:00-06:00,,,Feet,289.36,Unknown,Unknown,289.36,3327,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,1994-02-14T00:00:00-06:00,,,Feet,290.45,Unknown,Unknown,290.45,3326,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,1996-02-20T00:00:00-06:00,,,Feet,288.70,Unknown,Unknown,288.70,3327,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,1997-01-09T00:00:00-06:00,,,Feet,288.50,Unknown,Unknown,288.50,3328,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601803,1998-01-12T00:00:00-06:00,,,Feet,289.67,Unknown,Unknown,289.67,3326,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2000-01-14T00:00:00-06:00,,,Feet,291.08,Unknown,Unknown,291.08,3325,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2001-04-12T00:00:00-06:00,,,Feet,288.37,Unknown,Unknown,288.37,3328,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2002-01-09T00:00:00-06:00,,,Feet,290.63,Unknown,Unknown,290.63,3325,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2003-01-27T00:00:00-06:00,,,Feet,292.01,Unknown,Unknown,292.01,3324,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2004-01-20T00:00:00-06:00,,,Feet,291.83,Unknown,Unknown,291.83,3324,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2005-03-05T00:00:00-06:00,,,Feet,292.69,Unknown,Unknown,292.69,3323,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2006-01-17T00:00:00-06:00,,,Feet,291.81,Unknown,Unknown,291.81,3324,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2007-01-16T00:00:00-06:00,,,Feet,302.82,Unknown,Unknown,302.82,3313,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2008-12-09T00:00:00-06:00,,,Feet,301.45,Unknown,Unknown,301.45,3315,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2009-02-20T00:00:00-06:00,,,Feet,313.71,Unknown,Unknown,313.71,3302,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2010-01-14T00:00:00-06:00,,,Feet,322.90,Unknown,Unknown,322.90,3293,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2012-01-06T00:00:00-06:00,,,Feet,333.90,Unknown,Unknown,333.90,3282,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2013-01-18T00:00:00-06:00,,,Feet,297.00,Unknown,Unknown,297.00,3319,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2014-01-20T00:00:00-06:00,,,Feet,299.89,Unknown,Unknown,299.89,3316,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2015-02-13T00:00:00-06:00,,,Feet,320.59,Unknown,Unknown,320.59,3295,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2016-02-29T00:00:00-06:00,,,Feet,319.98,Unknown,Unknown,319.98,3296,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2017-02-01T00:00:00-06:00,,,Feet,327.75,Unknown,Unknown,327.75,3288,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2019-01-24T00:00:00-06:00,,,Feet,335.37,Unknown,Unknown,335.37,3281,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601803,2020-01-23T00:00:00-06:00,,,Feet,299.60,Unknown,Unknown,299.60,3316,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601803,2021-01-28T00:00:00-06:00,,,Feet,301.06,Unknown,Unknown,301.06,3315,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601803,2022-01-28T00:00:00-06:00,,,Feet,303.53,Unknown,Unknown,303.53,3312,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602114,1995-03-28T00:00:00-06:00,,,Feet,319.26,Unknown,Unknown,319.26,3213,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,1996-02-14T00:00:00-06:00,,,Feet,319.30,Unknown,Unknown,319.30,3213,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,1998-03-13T00:00:00-06:00,,,Feet,360.52,Unknown,Unknown,360.52,3171,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2001-03-14T00:00:00-06:00,,,Feet,364.19,Unknown,Unknown,364.19,3168,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2005-03-07T00:00:00-06:00,,,Feet,366.45,Unknown,Unknown,366.45,3166,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2006-01-19T00:00:00-06:00,,,Feet,367.94,Unknown,Unknown,367.94,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2007-01-17T00:00:00-06:00,,,Feet,368.74,Unknown,Unknown,368.74,3163,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2008-01-07T00:00:00-06:00,,,Feet,367.56,Unknown,Unknown,367.56,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2011-01-14T00:00:00-06:00,,,Feet,373.41,Unknown,Unknown,373.41,3159,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602114,2012-01-06T00:00:00-06:00,,,Feet,379.43,Unknown,Unknown,379.43,3153,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2013-01-18T00:00:00-06:00,,,Feet,383.59,Unknown,Unknown,383.59,3148,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2016-01-21T00:00:00-06:00,,,Feet,385.10,Unknown,Unknown,385.10,3147,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2017-01-12T00:00:00-06:00,,,Feet,398.62,Unknown,Unknown,398.62,3133,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2018-01-23T00:00:00-06:00,,,Feet,390.05,Unknown,Unknown,390.05,3142,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0602114,2019-01-09T00:00:00-06:00,,,Feet,394.00,Unknown,Unknown,394.00,3138,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602114,2020-01-08T00:00:00-06:00,,,Feet,399.30,Unknown,Unknown,399.30,3133,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602114,2021-01-14T00:00:00-06:00,,,Feet,395.90,Unknown,Unknown,395.90,3136,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602701,1993-01-25T00:00:00-06:00,,,Feet,303.87,Unknown,Unknown,303.87,3228,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,1994-02-14T00:00:00-06:00,,,Feet,307.14,Unknown,Unknown,307.14,3225,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,1997-01-24T00:00:00-06:00,,,Feet,308.00,Unknown,Unknown,308.00,3224,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602701,1998-01-12T00:00:00-06:00,,,Feet,306.49,Unknown,Unknown,306.49,3226,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2000-01-12T00:00:00-06:00,,,Feet,310.29,Unknown,Unknown,310.29,3222,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2002-02-27T00:00:00-06:00,,,Feet,309.39,Unknown,Unknown,309.39,3223,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2003-01-28T00:00:00-06:00,,,Feet,315.07,Unknown,Unknown,315.07,3217,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2004-02-10T00:00:00-06:00,,,Feet,315.24,Unknown,Unknown,315.24,3217,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2005-03-07T00:00:00-06:00,,,Feet,316.35,Unknown,Unknown,316.35,3216,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2006-01-19T00:00:00-06:00,,,Feet,317.84,Unknown,Unknown,317.84,3214,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2007-01-16T00:00:00-06:00,,,Feet,320.31,Unknown,Unknown,320.31,3212,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2008-01-08T00:00:00-06:00,,,Feet,331.81,Unknown,Unknown,331.81,3200,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2010-01-12T00:00:00-06:00,,,Feet,349.42,Unknown,Unknown,349.42,3183,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2013-01-28T00:00:00-06:00,,,Feet,365.81,Unknown,Unknown,365.81,3166,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2014-01-16T00:00:00-06:00,,,Feet,332.70,Unknown,Unknown,332.70,3199,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2017-01-30T00:00:00-06:00,,,Feet,355.75,Unknown,Unknown,355.75,3176,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2018-02-27T00:00:00-06:00,,,Feet,360.50,Unknown,Unknown,360.50,3172,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602701,2019-01-21T00:00:00-06:00,,,Feet,334.41,Unknown,Unknown,334.41,3198,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602701,2020-01-10T00:00:00-06:00,,,Feet,333.95,Unknown,Unknown,333.95,3198,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602701,2021-01-28T00:00:00-06:00,,,Feet,335.11,Unknown,Unknown,335.11,3197,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602701,2022-01-28T00:00:00-06:00,,,Feet,339.04,Unknown,Unknown,339.04,3193,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610102,1993-01-25T00:00:00-06:00,,,Feet,312.45,Unknown,Unknown,312.45,3263,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,1994-02-14T00:00:00-06:00,,,Feet,319.65,Unknown,Unknown,319.65,3255,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,1996-02-20T00:00:00-06:00,,,Feet,322.40,Unknown,Unknown,322.40,3253,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,1997-01-10T00:00:00-06:00,,,Feet,322.00,Unknown,Unknown,322.00,3253,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610102,1998-01-15T00:00:00-06:00,,,Feet,324.57,Unknown,Unknown,324.57,3250,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2000-01-14T00:00:00-06:00,,,Feet,326.17,Unknown,Unknown,326.17,3249,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2001-04-05T00:00:00-06:00,,,Feet,325.19,Unknown,Unknown,325.19,3250,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2002-02-27T00:00:00-06:00,,,Feet,327.51,Unknown,Unknown,327.51,3247,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2003-01-28T00:00:00-06:00,,,Feet,326.84,Unknown,Unknown,326.84,3248,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2004-01-20T00:00:00-06:00,,,Feet,327.41,Unknown,Unknown,327.41,3248,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2005-03-05T00:00:00-06:00,,,Feet,327.88,Unknown,Unknown,327.88,3247,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2006-01-17T00:00:00-06:00,,,Feet,330.52,Unknown,Unknown,330.52,3244,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2007-01-16T00:00:00-06:00,,,Feet,328.69,Unknown,Unknown,328.69,3246,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2008-01-08T00:00:00-06:00,,,Feet,334.89,Unknown,Unknown,334.89,3240,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2009-02-20T00:00:00-06:00,,,Feet,328.67,Unknown,Unknown,328.67,3246,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2010-01-11T00:00:00-06:00,,,Feet,330.25,Unknown,Unknown,330.25,3245,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2011-02-16T00:00:00-06:00,,,Feet,330.27,Unknown,Unknown,330.27,3245,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2012-01-05T00:00:00-06:00,,,Feet,331.99,Unknown,Unknown,331.99,3243,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2013-01-28T00:00:00-06:00,,,Feet,343.51,Unknown,Unknown,343.51,3231,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2014-01-16T00:00:00-06:00,,,Feet,340.00,Unknown,Unknown,340.00,3235,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2015-02-03T00:00:00-06:00,,,Feet,338.70,Unknown,Unknown,338.70,3236,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2016-01-16T00:00:00-06:00,,,Feet,336.60,Unknown,Unknown,336.60,3238,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610102,2017-02-01T00:00:00-06:00,,,Feet,338.00,Unknown,Unknown,338.00,3237,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610102,2018-02-27T00:00:00-06:00,,,Feet,341.20,Unknown,Unknown,341.20,3234,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0610102,2019-01-24T00:00:00-06:00,,,Feet,340.56,Unknown,Unknown,340.56,3234,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610102,2020-01-23T00:00:00-06:00,,,Feet,341.49,Unknown,Unknown,341.49,3234,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610102,2021-01-27T00:00:00-06:00,,,Feet,343.04,Unknown,Unknown,343.04,3232,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610102,2022-01-28T00:00:00-06:00,,,Feet,344.26,Unknown,Unknown,344.26,3231,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611103,1993-01-25T00:00:00-06:00,,,Feet,247.07,Unknown,Unknown,247.07,3213,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,1994-02-14T00:00:00-06:00,,,Feet,248.74,Unknown,Unknown,248.74,3211,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,1995-03-24T00:00:00-06:00,,,Feet,249.93,Unknown,Unknown,249.93,3210,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,1996-02-21T00:00:00-06:00,,,Feet,257.50,Unknown,Unknown,257.50,3203,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,1998-01-14T00:00:00-06:00,,,Feet,256.64,Unknown,Unknown,256.64,3203,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2001-04-05T00:00:00-06:00,,,Feet,248.36,Unknown,Unknown,248.36,3212,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2004-02-05T00:00:00-06:00,,,Feet,249.26,Unknown,Unknown,249.26,3211,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2005-03-05T00:00:00-06:00,,,Feet,246.86,Unknown,Unknown,246.86,3213,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2006-01-18T00:00:00-06:00,,,Feet,249.25,Unknown,Unknown,249.25,3211,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2007-01-16T00:00:00-06:00,,,Feet,249.49,Unknown,Unknown,249.49,3211,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2008-01-04T00:00:00-06:00,,,Feet,250.09,Unknown,Unknown,250.09,3210,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2009-02-20T00:00:00-06:00,,,Feet,249.55,Unknown,Unknown,249.55,3210,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2010-01-11T00:00:00-06:00,,,Feet,251.34,Unknown,Unknown,251.34,3209,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2011-02-16T00:00:00-06:00,,,Feet,251.19,Unknown,Unknown,251.19,3209,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2012-01-05T00:00:00-06:00,,,Feet,252.70,Unknown,Unknown,252.70,3207,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2013-01-28T00:00:00-06:00,,,Feet,267.98,Unknown,Unknown,267.98,3192,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2014-01-16T00:00:00-06:00,,,Feet,258.00,Unknown,Unknown,258.00,3202,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2018-02-09T00:00:00-06:00,,,Feet,254.81,Unknown,Unknown,254.81,3205,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611103,2019-01-23T00:00:00-06:00,,,Feet,257.00,Unknown,Unknown,257.00,3203,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611103,2020-01-23T00:00:00-06:00,,,Feet,260.39,Unknown,Unknown,260.39,3200,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0359809,1993-01-05T00:00:00-06:00,,,Feet,255.95,Unknown,Unknown,255.95,3158,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,1996-02-22T00:00:00-06:00,,,Feet,264.60,Unknown,Unknown,264.60,3149,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,1997-01-24T00:00:00-06:00,,,Feet,267.65,Unknown,Unknown,267.65,3146,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0359809,1998-03-12T00:00:00-06:00,,,Feet,269.70,Unknown,Unknown,269.70,3144,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2000-02-03T00:00:00-06:00,,,Feet,274.66,Unknown,Unknown,274.66,3139,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2001-04-09T00:00:00-06:00,,,Feet,275.28,Unknown,Unknown,275.28,3139,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2002-02-26T00:00:00-06:00,,,Feet,275.49,Unknown,Unknown,275.49,3139,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2003-02-11T00:00:00-06:00,,,Feet,280.86,Unknown,Unknown,280.86,3133,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2004-02-27T00:00:00-06:00,,,Feet,277.88,Unknown,Unknown,277.88,3136,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2005-03-07T00:00:00-06:00,,,Feet,283.82,Unknown,Unknown,283.82,3130,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2006-01-19T00:00:00-06:00,,,Feet,285.12,Unknown,Unknown,285.12,3129,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2007-01-17T00:00:00-06:00,,,Feet,298.99,Unknown,Unknown,298.99,3115,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2008-01-03T00:00:00-06:00,,,Feet,299.03,Unknown,Unknown,299.03,3115,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2009-02-23T00:00:00-06:00,,,Feet,296.63,Unknown,Unknown,296.63,3117,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2010-01-14T00:00:00-06:00,,,Feet,303.42,Unknown,Unknown,303.42,3111,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2011-02-16T00:00:00-06:00,,,Feet,294.20,Unknown,Unknown,294.20,3120,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2012-01-06T00:00:00-06:00,,,Feet,298.50,Unknown,Unknown,298.50,3116,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2013-01-21T00:00:00-06:00,,,Feet,302.95,Unknown,Unknown,302.95,3111,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2014-01-10T00:00:00-06:00,,,Feet,306.45,Unknown,Unknown,306.45,3108,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2015-01-26T00:00:00-06:00,,,Feet,312.25,Unknown,Unknown,312.25,3102,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2016-01-27T00:00:00-06:00,,,Feet,308.60,Unknown,Unknown,308.60,3105,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2017-01-19T00:00:00-06:00,,,Feet,314.61,Unknown,Unknown,314.61,3099,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2018-01-23T00:00:00-06:00,,,Feet,314.42,Unknown,Unknown,314.42,3100,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0359809,2019-01-09T00:00:00-06:00,,,Feet,317.20,Unknown,Unknown,317.20,3097,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0359809,2020-01-09T00:00:00-06:00,,,Feet,317.03,Unknown,Unknown,317.03,3097,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359809,2021-01-15T00:00:00-06:00,,,Feet,318.20,Unknown,Unknown,318.20,3096,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0359809,2022-02-15T00:00:00-06:00,,,Feet,324.40,Unknown,Unknown,324.40,3090,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724202,1996-02-12T00:00:00-06:00,,,Feet,304.40,Unknown,Unknown,304.40,3427,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,1997-03-04T00:00:00-06:00,,,Feet,305.41,Unknown,Unknown,305.41,3426,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724202,1998-01-19T00:00:00-06:00,,,Feet,342.64,Unknown,Unknown,342.64,3388,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2000-01-17T00:00:00-06:00,,,Feet,307.92,Unknown,Unknown,307.92,3423,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2002-01-09T00:00:00-06:00,,,Feet,305.84,Unknown,Unknown,305.84,3425,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2003-02-20T00:00:00-06:00,,,Feet,307.84,Unknown,Unknown,307.84,3423,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2005-03-08T00:00:00-06:00,,,Feet,308.12,Unknown,Unknown,308.12,3423,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2006-01-23T00:00:00-06:00,,,Feet,310.32,Unknown,Unknown,310.32,3421,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2007-01-18T00:00:00-06:00,,,Feet,321.61,Unknown,Unknown,321.61,3409,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2008-01-09T00:00:00-06:00,,,Feet,309.80,Unknown,Unknown,309.80,3421,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2009-02-18T00:00:00-06:00,,,Feet,318.80,Unknown,Unknown,318.80,3412,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2010-01-14T00:00:00-06:00,,,Feet,327.35,Unknown,Unknown,327.35,3404,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2011-02-15T00:00:00-06:00,,,Feet,319.04,Unknown,Unknown,319.04,3412,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2012-01-13T00:00:00-06:00,,,Feet,311.35,Unknown,Unknown,311.35,3420,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2013-01-23T00:00:00-06:00,,,Feet,326.67,Unknown,Unknown,326.67,3404,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2015-02-06T00:00:00-06:00,,,Feet,311.08,Unknown,Unknown,311.08,3420,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2016-02-17T00:00:00-06:00,,,Feet,316.55,Unknown,Unknown,316.55,3414,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724202,2018-01-25T00:00:00-06:00,,,Feet,334.10,Unknown,Unknown,334.10,3397,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724202,2019-02-01T00:00:00-06:00,,,Feet,336.54,Unknown,Unknown,336.54,3394,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724202,2021-01-13T00:00:00-06:00,,,Feet,315.00,Unknown,Unknown,315.00,3416,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724202,2022-01-27T00:00:00-06:00,,,Feet,325.63,Unknown,Unknown,325.63,3405,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,1995-03-28T00:00:00-06:00,,,Feet,372.57,Unknown,Unknown,372.57,3408,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,1996-02-12T00:00:00-06:00,,,Feet,376.10,Unknown,Unknown,376.10,3405,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,1997-03-04T00:00:00-06:00,,,Feet,377.60,Unknown,Unknown,377.60,3403,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724403,1998-01-19T00:00:00-06:00,,,Feet,380.03,Unknown,Unknown,380.03,3401,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2001-04-10T00:00:00-06:00,,,Feet,386.47,Unknown,Unknown,386.47,3395,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2002-01-10T00:00:00-06:00,,,Feet,387.02,Unknown,Unknown,387.02,3394,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2003-02-20T00:00:00-06:00,,,Feet,394.15,Unknown,Unknown,394.15,3387,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2004-03-10T00:00:00-06:00,,,Feet,397.54,Unknown,Unknown,397.54,3383,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2005-03-08T00:00:00-06:00,,,Feet,396.37,Unknown,Unknown,396.37,3385,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2006-01-23T00:00:00-06:00,,,Feet,394.82,Unknown,Unknown,394.82,3386,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2007-01-18T00:00:00-06:00,,,Feet,398.59,Unknown,Unknown,398.59,3382,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2008-01-10T00:00:00-06:00,,,Feet,398.80,Unknown,Unknown,398.80,3382,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2010-01-14T00:00:00-06:00,,,Feet,403.30,Unknown,Unknown,403.30,3378,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2011-02-15T00:00:00-06:00,,,Feet,415.94,Unknown,Unknown,415.94,3365,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2012-01-13T00:00:00-06:00,,,Feet,408.50,Unknown,Unknown,408.50,3373,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2013-01-23T00:00:00-06:00,,,Feet,418.23,Unknown,Unknown,418.23,3363,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2014-01-16T00:00:00-06:00,,,Feet,411.00,Unknown,Unknown,411.00,3370,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2016-02-17T00:00:00-06:00,,,Feet,422.39,Unknown,Unknown,422.39,3359,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0724403,2018-01-25T00:00:00-06:00,,,Feet,433.40,Unknown,Unknown,433.40,3348,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724403,2019-02-01T00:00:00-06:00,,,Feet,441.25,Unknown,Unknown,441.25,3340,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0724403,2021-01-13T00:00:00-06:00,,,Feet,420.50,Unknown,Unknown,420.50,3361,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0724403,2022-02-07T00:00:00-06:00,,,Feet,419.05,Unknown,Unknown,419.05,3362,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,1994-01-24T00:00:00-06:00,,,Feet,368.81,Unknown,Unknown,368.81,3419,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,1995-03-28T00:00:00-06:00,,,Feet,370.27,Unknown,Unknown,370.27,3418,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,1996-02-09T00:00:00-06:00,,,Feet,375.30,Unknown,Unknown,375.30,3413,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,1997-03-06T00:00:00-06:00,,,Feet,372.45,Unknown,Unknown,372.45,3416,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0715603,1998-01-20T00:00:00-06:00,,,Feet,375.46,Unknown,Unknown,375.46,3413,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2001-04-10T00:00:00-06:00,,,Feet,379.83,Unknown,Unknown,379.83,3408,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2005-03-08T00:00:00-06:00,,,Feet,386.47,Unknown,Unknown,386.47,3402,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2007-01-18T00:00:00-06:00,,,Feet,400.67,Unknown,Unknown,400.67,3387,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2007-12-19T00:00:00-06:00,,,Feet,396.05,Unknown,Unknown,396.05,3392,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2009-02-18T00:00:00-06:00,,,Feet,404.81,Unknown,Unknown,404.81,3383,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2010-01-15T00:00:00-06:00,,,Feet,417.09,Unknown,Unknown,417.09,3371,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2011-02-15T00:00:00-06:00,,,Feet,419.14,Unknown,Unknown,419.14,3369,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2012-01-17T00:00:00-06:00,,,Feet,404.50,Unknown,Unknown,404.50,3384,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2013-01-23T00:00:00-06:00,,,Feet,407.83,Unknown,Unknown,407.83,3380,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2015-02-12T00:00:00-06:00,,,Feet,420.88,Unknown,Unknown,420.88,3367,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2016-02-17T00:00:00-06:00,,,Feet,410.19,Unknown,Unknown,410.19,3378,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2018-01-24T00:00:00-06:00,,,Feet,408.00,Unknown,Unknown,408.00,3380,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0715603,2019-02-01T00:00:00-06:00,,,Feet,411.36,Unknown,Unknown,411.36,3377,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0715603,2020-02-05T00:00:00-06:00,,,Feet,420.35,Unknown,Unknown,420.35,3368,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0715603,2021-01-13T00:00:00-06:00,,,Feet,412.90,Unknown,Unknown,412.90,3375,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0715603,2022-02-07T00:00:00-06:00,,,Feet,417.75,Unknown,Unknown,417.75,3370,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2002-02-27T00:00:00-06:00,,,Feet,323.66,Unknown,Unknown,323.66,3268,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2003-01-28T00:00:00-06:00,,,Feet,328.76,Unknown,Unknown,328.76,3263,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2004-01-20T00:00:00-06:00,,,Feet,328.39,Unknown,Unknown,328.39,3264,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2005-03-05T00:00:00-06:00,,,Feet,328.84,Unknown,Unknown,328.84,3263,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2006-01-17T00:00:00-06:00,,,Feet,328.32,Unknown,Unknown,328.32,3264,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2007-01-16T00:00:00-06:00,,,Feet,327.54,Unknown,Unknown,327.54,3264,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2007-12-19T00:00:00-06:00,,,Feet,328.20,Unknown,Unknown,328.20,3264,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2009-02-20T00:00:00-06:00,,,Feet,336.59,Unknown,Unknown,336.59,3255,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2011-01-07T00:00:00-06:00,,,Feet,333.17,Unknown,Unknown,333.17,3259,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2013-01-18T00:00:00-06:00,,,Feet,345.00,Unknown,Unknown,345.00,3247,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2014-01-20T00:00:00-06:00,,,Feet,348.26,Unknown,Unknown,348.26,3244,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2015-02-03T00:00:00-06:00,,,Feet,353.61,Unknown,Unknown,353.61,3238,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2016-01-06T00:00:00-06:00,,,Feet,363.70,Unknown,Unknown,363.70,3228,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2017-02-01T00:00:00-06:00,,,Feet,364.74,Unknown,Unknown,364.74,3227,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609312,2018-02-27T00:00:00-06:00,,,Feet,369.70,Unknown,Unknown,369.70,3222,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0601603,1993-01-25T00:00:00-06:00,,,Feet,266.77,Unknown,Unknown,266.77,3297,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,1994-02-14T00:00:00-06:00,,,Feet,267.42,Unknown,Unknown,267.42,3297,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,1995-03-23T00:00:00-06:00,,,Feet,269.19,Unknown,Unknown,269.19,3295,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,1996-02-13T00:00:00-06:00,,,Feet,270.00,Unknown,Unknown,270.00,3294,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,1997-01-09T00:00:00-06:00,,,Feet,271.52,Unknown,Unknown,271.52,3292,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601603,1998-01-12T00:00:00-06:00,,,Feet,273.56,Unknown,Unknown,273.56,3290,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2000-01-12T00:00:00-06:00,,,Feet,276.86,Unknown,Unknown,276.86,3287,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2001-04-09T00:00:00-06:00,,,Feet,276.45,Unknown,Unknown,276.45,3288,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2002-02-27T00:00:00-06:00,,,Feet,277.18,Unknown,Unknown,277.18,3287,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2003-02-11T00:00:00-06:00,,,Feet,281.13,Unknown,Unknown,281.13,3283,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2004-02-10T00:00:00-06:00,,,Feet,281.75,Unknown,Unknown,281.75,3282,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2005-03-07T00:00:00-06:00,,,Feet,279.87,Unknown,Unknown,279.87,3284,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2006-01-17T00:00:00-06:00,,,Feet,288.90,Unknown,Unknown,288.90,3275,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2007-01-17T00:00:00-06:00,,,Feet,279.84,Unknown,Unknown,279.84,3284,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2008-01-08T00:00:00-06:00,,,Feet,287.90,Unknown,Unknown,287.90,3276,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2009-02-23T00:00:00-06:00,,,Feet,285.85,Unknown,Unknown,285.85,3278,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2010-01-14T00:00:00-06:00,,,Feet,290.60,Unknown,Unknown,290.60,3273,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2011-01-07T00:00:00-06:00,,,Feet,291.84,Unknown,Unknown,291.84,3272,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2012-01-06T00:00:00-06:00,,,Feet,293.08,Unknown,Unknown,293.08,3271,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2013-01-18T00:00:00-06:00,,,Feet,306.63,Unknown,Unknown,306.63,3257,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2014-01-20T00:00:00-06:00,,,Feet,299.30,Unknown,Unknown,299.30,3265,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2015-02-03T00:00:00-06:00,,,Feet,300.70,Unknown,Unknown,300.70,3263,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2016-02-29T00:00:00-06:00,,,Feet,300.06,Unknown,Unknown,300.06,3264,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2017-02-01T00:00:00-06:00,,,Feet,302.75,Unknown,Unknown,302.75,3261,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601603,2018-02-27T00:00:00-06:00,,,Feet,304.40,Unknown,Unknown,304.40,3260,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601603,2019-01-21T00:00:00-06:00,,,Feet,307.11,Unknown,Unknown,307.11,3257,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601603,2020-01-10T00:00:00-06:00,,,Feet,308.25,Unknown,Unknown,308.25,3256,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601603,2021-01-28T00:00:00-06:00,,,Feet,310.49,Unknown,Unknown,310.49,3254,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0609202,1993-01-25T00:00:00-06:00,,,Feet,267.71,Unknown,Unknown,267.71,3360,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,1994-02-14T00:00:00-06:00,,,Feet,270.13,Unknown,Unknown,270.13,3358,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,1995-03-22T00:00:00-06:00,,,Feet,271.22,Unknown,Unknown,271.22,3357,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,1996-02-20T00:00:00-06:00,,,Feet,266.80,Unknown,Unknown,266.80,3361,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,1997-01-09T00:00:00-06:00,,,Feet,271.10,Unknown,Unknown,271.10,3357,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0609202,1998-01-15T00:00:00-06:00,,,Feet,276.36,Unknown,Unknown,276.36,3352,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2001-03-21T00:00:00-06:00,,,Feet,263.84,Unknown,Unknown,263.84,3364,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2002-01-09T00:00:00-06:00,,,Feet,262.83,Unknown,Unknown,262.83,3365,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2003-01-27T00:00:00-06:00,,,Feet,266.36,Unknown,Unknown,266.36,3362,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2004-01-20T00:00:00-06:00,,,Feet,263.98,Unknown,Unknown,263.98,3364,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2005-03-05T00:00:00-06:00,,,Feet,264.72,Unknown,Unknown,264.72,3363,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2006-01-17T00:00:00-06:00,,,Feet,265.24,Unknown,Unknown,265.24,3363,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2007-01-16T00:00:00-06:00,,,Feet,276.39,Unknown,Unknown,276.39,3352,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2007-12-19T00:00:00-06:00,,,Feet,266.75,Unknown,Unknown,266.75,3361,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2009-02-17T00:00:00-06:00,,,Feet,269.99,Unknown,Unknown,269.99,3358,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2010-01-14T00:00:00-06:00,,,Feet,272.69,Unknown,Unknown,272.69,3355,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2011-01-07T00:00:00-06:00,,,Feet,290.25,Unknown,Unknown,290.25,3338,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2012-01-06T00:00:00-06:00,,,Feet,305.44,Unknown,Unknown,305.44,3323,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2013-01-16T00:00:00-06:00,,,Feet,316.18,Unknown,Unknown,316.18,3312,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2014-01-20T00:00:00-06:00,,,Feet,314.41,Unknown,Unknown,314.41,3314,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2015-02-13T00:00:00-06:00,,,Feet,313.88,Unknown,Unknown,313.88,3314,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2016-01-06T00:00:00-06:00,,,Feet,312.00,Unknown,Unknown,312.00,3316,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2017-02-01T00:00:00-06:00,,,Feet,319.78,Unknown,Unknown,319.78,3308,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2019-01-10T00:00:00-06:00,,,Feet,324.22,Unknown,Unknown,324.22,3304,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0609202,2022-01-28T00:00:00-06:00,,,Feet,312.81,Unknown,Unknown,312.81,3315,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,1993-01-25T00:00:00-06:00,,,Feet,323.59,Unknown,Unknown,323.59,3200,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,1994-02-14T00:00:00-06:00,,,Feet,327.33,Unknown,Unknown,327.33,3197,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,1995-03-28T00:00:00-06:00,,,Feet,329.77,Unknown,Unknown,329.77,3194,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,1996-02-20T00:00:00-06:00,,,Feet,330.30,Unknown,Unknown,330.30,3194,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,1997-01-17T00:00:00-06:00,,,Feet,331.77,Unknown,Unknown,331.77,3192,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610201,1998-01-15T00:00:00-06:00,,,Feet,334.61,Unknown,Unknown,334.61,3189,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2001-04-05T00:00:00-06:00,,,Feet,334.72,Unknown,Unknown,334.72,3189,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2002-02-27T00:00:00-06:00,,,Feet,335.54,Unknown,Unknown,335.54,3188,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2003-01-28T00:00:00-06:00,,,Feet,341.92,Unknown,Unknown,341.92,3182,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2004-02-05T00:00:00-06:00,,,Feet,339.15,Unknown,Unknown,339.15,3185,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2005-03-05T00:00:00-06:00,,,Feet,338.30,Unknown,Unknown,338.30,3186,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2006-01-18T00:00:00-06:00,,,Feet,339.37,Unknown,Unknown,339.37,3185,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2007-01-16T00:00:00-06:00,,,Feet,336.84,Unknown,Unknown,336.84,3187,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2008-01-04T00:00:00-06:00,,,Feet,342.34,Unknown,Unknown,342.34,3182,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2009-02-20T00:00:00-06:00,,,Feet,343.00,Unknown,Unknown,343.00,3181,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2010-01-11T00:00:00-06:00,,,Feet,357.25,Unknown,Unknown,357.25,3167,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2011-02-16T00:00:00-06:00,,,Feet,361.37,Unknown,Unknown,361.37,3163,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2014-01-16T00:00:00-06:00,,,Feet,362.35,Unknown,Unknown,362.35,3162,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2015-02-03T00:00:00-06:00,,,Feet,359.20,Unknown,Unknown,359.20,3165,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2016-01-06T00:00:00-06:00,,,Feet,352.26,Unknown,Unknown,352.26,3172,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0610201,2017-01-30T00:00:00-06:00,,,Feet,352.92,Unknown,Unknown,352.92,3171,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610201,2019-01-24T00:00:00-06:00,,,Feet,358.53,Unknown,Unknown,358.53,3165,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610201,2020-01-23T00:00:00-06:00,,,Feet,355.70,Unknown,Unknown,355.70,3168,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610201,2021-01-27T00:00:00-06:00,,,Feet,356.87,Unknown,Unknown,356.87,3167,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0610201,2022-01-28T00:00:00-06:00,,,Feet,361.58,Unknown,Unknown,361.58,3162,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0358709,2009-04-22T00:00:00-06:00,,,Feet,325.50,Unknown,Unknown,325.50,3183,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0358709,2010-01-18T00:00:00-06:00,,,Feet,324.28,Unknown,Unknown,324.28,3184,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0358709,2010-12-02T00:00:00-06:00,,,Feet,324.36,Unknown,Unknown,324.36,3184,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0358709,2012-01-05T00:00:00-06:00,,,Feet,332.20,Unknown,Unknown,332.20,3176,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0358709,2012-12-17T00:00:00-06:00,,,Feet,342.22,Unknown,Unknown,342.22,3166,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0358709,2013-12-18T00:00:00-06:00,,,Feet,347.06,Unknown,Unknown,347.06,3161,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0358709,2015-01-09T00:00:00-06:00,,,Feet,350.68,Unknown,Unknown,350.68,3157,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0358709,2016-02-08T00:00:00-06:00,,,Feet,354.93,Unknown,Unknown,354.93,3153,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0358709,2017-01-19T00:00:00-06:00,,,Feet,356.75,Unknown,Unknown,356.75,3151,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0358709,2018-01-23T00:00:00-06:00,,,Feet,360.60,Unknown,Unknown,360.60,3147,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0358709,2019-01-09T00:00:00-06:00,,,Feet,365.28,Unknown,Unknown,365.28,3143,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0358709,2019-12-19T00:00:00-06:00,,,Feet,370.50,Unknown,Unknown,370.50,3138,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0358709,2021-01-11T00:00:00-06:00,,,Feet,373.80,Unknown,Unknown,373.80,3134,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0358709,2022-01-28T00:00:00-06:00,,,Feet,379.36,Unknown,Unknown,379.36,3129,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0609401,1993-12-16T00:00:00-06:00,,,Feet,260.45,Unknown,Unknown,260.45,3400,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,1995-12-11T00:00:00-06:00,,,Feet,262.77,Unknown,Unknown,262.77,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,1996-12-13T00:00:00-06:00,,,Feet,261.42,Unknown,Unknown,261.42,3399,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,1997-12-12T00:00:00-06:00,,,Feet,261.68,Unknown,Unknown,261.68,3398,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,1998-12-13T00:00:00-06:00,,,Feet,261.54,Unknown,Unknown,261.54,3398,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,1999-12-13T00:00:00-06:00,,,Feet,261.52,Unknown,Unknown,261.52,3398,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2000-12-09T00:00:00-06:00,,,Feet,261.20,Unknown,Unknown,261.20,3399,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2001-12-15T00:00:00-06:00,,,Feet,261.15,Unknown,Unknown,261.15,3399,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2002-12-10T00:00:00-06:00,,,Feet,260.95,Unknown,Unknown,260.95,3399,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2003-12-17T00:00:00-06:00,,,Feet,262.04,Unknown,Unknown,262.04,3398,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2004-12-15T00:00:00-06:00,,,Feet,262.10,Unknown,Unknown,262.10,3398,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2005-11-01T00:00:00-06:00,,,Feet,262.52,Unknown,Unknown,262.52,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2006-12-03T00:00:00-06:00,,,Feet,263.30,Unknown,Unknown,263.30,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2007-12-09T00:00:00-06:00,,,Feet,263.10,Unknown,Unknown,263.10,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2008-12-12T00:00:00-06:00,,,Feet,263.21,Unknown,Unknown,263.21,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2009-11-06T00:00:00-06:00,,,Feet,262.97,Unknown,Unknown,262.97,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2011-01-25T00:00:00-06:00,,,Feet,261.86,Unknown,Unknown,261.86,3398,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2012-01-10T00:00:00-06:00,,,Feet,263.23,Unknown,Unknown,263.23,3397,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2012-12-06T00:00:00-06:00,,,Feet,263.58,Unknown,Unknown,263.58,3396,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2013-12-10T00:00:00-06:00,,,Feet,264.25,Unknown,Unknown,264.25,3396,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2014-12-10T00:00:00-06:00,,,Feet,264.84,Unknown,Unknown,264.84,3395,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2016-11-29T10:50:00-06:00,,,Feet,264.98,Unknown,Unknown,264.98,3395,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2017-12-07T16:30:00-06:00,,,Feet,265.58,Unknown,Unknown,265.58,3394,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,0609401,2018-12-05T13:10:00-06:00,,,Feet,265.90,Unknown,Unknown,265.90,3394,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,0609401,2019-12-18T18:25:00-06:00,,,Feet,266.15,Unknown,Unknown,266.15,3394,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,0609401,2020-12-14T09:55:00-06:00,,,Feet,266.20,Unknown,Unknown,266.20,3394,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0609401,2021-12-11T13:16:00-06:00,,,Feet,266.80,Unknown,Unknown,266.80,3393,measurement point: land surface,Electric Line,Texas Water Development Board
+TWDB,0603203,1993-01-05T00:00:00-06:00,,,Feet,278.57,Unknown,Unknown,278.57,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,1994-03-16T00:00:00-06:00,,,Feet,280.47,Unknown,Unknown,280.47,3159,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,1995-03-22T00:00:00-06:00,,,Feet,281.36,Unknown,Unknown,281.36,3158,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,1996-02-22T00:00:00-06:00,,,Feet,285.10,Unknown,Unknown,285.10,3154,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,1997-01-24T00:00:00-06:00,,,Feet,287.55,Unknown,Unknown,287.55,3151,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0603203,2000-02-03T00:00:00-06:00,,,Feet,293.28,Unknown,Unknown,293.28,3146,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2001-03-14T00:00:00-06:00,,,Feet,293.75,Unknown,Unknown,293.75,3145,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2002-02-26T00:00:00-06:00,,,Feet,293.86,Unknown,Unknown,293.86,3145,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2003-03-14T00:00:00-06:00,,,Feet,295.77,Unknown,Unknown,295.77,3143,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2004-02-27T00:00:00-06:00,,,Feet,295.57,Unknown,Unknown,295.57,3143,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2005-03-07T00:00:00-06:00,,,Feet,296.76,Unknown,Unknown,296.76,3142,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2006-01-19T00:00:00-06:00,,,Feet,297.67,Unknown,Unknown,297.67,3141,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2007-01-17T00:00:00-06:00,,,Feet,298.78,Unknown,Unknown,298.78,3140,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2008-01-03T00:00:00-06:00,,,Feet,300.10,Unknown,Unknown,300.10,3139,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2009-02-23T00:00:00-06:00,,,Feet,301.80,Unknown,Unknown,301.80,3137,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2010-01-14T00:00:00-06:00,,,Feet,304.00,Unknown,Unknown,304.00,3135,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2011-02-16T00:00:00-06:00,,,Feet,310.56,Unknown,Unknown,310.56,3128,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2014-01-10T00:00:00-06:00,,,Feet,373.35,Unknown,Unknown,373.35,3066,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603203,2021-01-15T00:00:00-06:00,,,Feet,381.60,Unknown,Unknown,381.60,3057,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0617801,1994-12-06T00:00:00-06:00,,,Feet,122.30,Unknown,Unknown,122.30,3425,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,1995-12-11T00:00:00-06:00,,,Feet,131.79,Unknown,Unknown,131.79,3415,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,1997-12-12T00:00:00-06:00,,,Feet,118.00,Unknown,Unknown,118.00,3429,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2001-12-15T00:00:00-06:00,,,Feet,133.39,Unknown,Unknown,133.39,3414,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2002-12-10T00:00:00-06:00,,,Feet,132.05,Unknown,Unknown,132.05,3415,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2004-07-20T00:00:00-06:00,,,Feet,131.84,Unknown,Unknown,131.84,3415,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2004-12-15T00:00:00-06:00,,,Feet,133.70,Unknown,Unknown,133.70,3413,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2005-11-01T00:00:00-06:00,,,Feet,133.00,Unknown,Unknown,133.00,3414,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2006-12-03T00:00:00-06:00,,,Feet,133.10,Unknown,Unknown,133.10,3414,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2011-01-25T00:00:00-06:00,,,Feet,132.77,Unknown,Unknown,132.77,3414,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2012-01-10T00:00:00-06:00,,,Feet,137.56,Unknown,Unknown,137.56,3409,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2012-12-06T00:00:00-06:00,,,Feet,136.45,Unknown,Unknown,136.45,3411,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2013-12-10T00:00:00-06:00,,,Feet,138.88,Unknown,Unknown,138.88,3408,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2014-12-10T00:00:00-06:00,,,Feet,137.77,Unknown,Unknown,137.77,3409,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2015-12-02T00:00:00-06:00,,,Feet,136.15,Unknown,Unknown,136.15,3411,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2016-11-29T09:40:00-06:00,,,Feet,138.20,Unknown,Unknown,138.20,3409,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2017-12-07T10:30:00-06:00,,,Feet,132.33,Unknown,Unknown,132.33,3415,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2018-12-05T14:27:00-06:00,,,Feet,134.33,Unknown,Unknown,134.33,3413,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0617801,2020-12-14T11:06:00-06:00,,,Feet,136.31,Unknown,Unknown,136.31,3411,measurement point: land surface,Steel Tape,Texas Water Development Board
+TWDB,0601117,2009-01-06T00:00:00-06:00,,,Feet,434.75,Unknown,Unknown,434.75,3176,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601117,2010-01-18T00:00:00-06:00,,,Feet,436.55,Unknown,Unknown,436.55,3174,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0601117,2010-12-02T00:00:00-06:00,,,Feet,385.78,Unknown,Unknown,385.78,3225,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0601117,2012-01-05T00:00:00-06:00,,,Feet,394.24,Unknown,Unknown,394.24,3217,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0601117,2012-12-17T00:00:00-06:00,,,Feet,409.70,Unknown,Unknown,409.70,3201,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0601117,2013-12-18T00:00:00-06:00,,,Feet,415.03,Unknown,Unknown,415.03,3196,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0601117,2015-01-09T00:00:00-06:00,,,Feet,420.00,Unknown,Unknown,420.00,3191,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0601117,2016-01-24T00:00:00-06:00,,,Feet,421.80,Unknown,Unknown,421.80,3189,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0601117,2017-01-12T00:00:00-06:00,,,Feet,429.91,Unknown,Unknown,429.91,3181,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601117,2018-01-23T00:00:00-06:00,,,Feet,431.51,Unknown,Unknown,431.51,3179,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601117,2019-01-09T00:00:00-06:00,,,Feet,438.56,Unknown,Unknown,438.56,3172,measurement point: land surface,Recorder (Float or Transducer),Groundwater Conservation District
+TWDB,0601117,2020-01-08T00:00:00-06:00,,,Feet,442.53,Unknown,Unknown,442.53,3168,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0601117,2021-01-11T00:00:00-06:00,,,Feet,451.60,Unknown,Unknown,451.60,3159,measurement point: land surface,Transducer,Groundwater Conservation District
+TWDB,0601117,2022-02-09T00:00:00-06:00,,,Feet,458.70,Unknown,Unknown,458.70,3152,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0708702,1993-01-04T00:00:00-06:00,,,Feet,352.97,Unknown,Unknown,352.97,3419,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,1994-01-25T00:00:00-06:00,,,Feet,355.05,Unknown,Unknown,355.05,3417,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,1995-03-23T00:00:00-06:00,,,Feet,357.12,Unknown,Unknown,357.12,3415,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,1996-02-09T00:00:00-06:00,,,Feet,359.50,Unknown,Unknown,359.50,3413,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,1997-03-06T00:00:00-06:00,,,Feet,361.10,Unknown,Unknown,361.10,3411,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708702,1998-03-09T00:00:00-06:00,,,Feet,366.14,Unknown,Unknown,366.14,3406,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2000-01-31T00:00:00-06:00,,,Feet,371.88,Unknown,Unknown,371.88,3400,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2001-04-12T00:00:00-06:00,,,Feet,373.67,Unknown,Unknown,373.67,3398,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2002-01-10T00:00:00-06:00,,,Feet,373.43,Unknown,Unknown,373.43,3399,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2007-12-18T00:00:00-06:00,,,Feet,389.28,Unknown,Unknown,389.28,3383,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2010-01-27T00:00:00-06:00,,,Feet,394.30,Unknown,Unknown,394.30,3378,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2011-02-16T00:00:00-06:00,,,Feet,396.08,Unknown,Unknown,396.08,3376,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2012-01-06T00:00:00-06:00,,,Feet,399.16,Unknown,Unknown,399.16,3373,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2013-01-18T00:00:00-06:00,,,Feet,404.44,Unknown,Unknown,404.44,3368,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2014-01-16T00:00:00-06:00,,,Feet,408.90,Unknown,Unknown,408.90,3363,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2015-02-13T00:00:00-06:00,,,Feet,445.98,Unknown,Unknown,445.98,3326,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2016-02-24T00:00:00-06:00,,,Feet,445.12,Unknown,Unknown,445.12,3327,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2017-01-25T00:00:00-06:00,,,Feet,440.81,Unknown,Unknown,440.81,3331,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708702,2018-01-24T00:00:00-06:00,,,Feet,444.00,Unknown,Unknown,444.00,3328,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708702,2019-01-15T00:00:00-06:00,,,Feet,419.77,Unknown,Unknown,419.77,3352,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708702,2020-02-06T00:00:00-06:00,,,Feet,420.41,Unknown,Unknown,420.41,3352,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708702,2021-01-07T00:00:00-06:00,,,Feet,422.70,Unknown,Unknown,422.70,3349,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708702,2022-02-10T00:00:00-06:00,,,Feet,427.70,Unknown,Unknown,427.70,3344,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2003-01-08T00:00:00-06:00,,,Feet,72.00,Unknown,Unknown,72.00,3518,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2004-10-09T00:00:00-06:00,,,Feet,78.30,Unknown,Unknown,78.30,3512,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0732202,2006-12-12T00:00:00-06:00,,,Feet,64.90,Unknown,Unknown,64.90,3525,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2008-01-07T00:00:00-06:00,,,Feet,39.10,Unknown,Unknown,39.10,3551,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0732202,2012-02-01T00:00:00-06:00,,,Feet,64.40,Unknown,Unknown,64.40,3526,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0732202,2013-01-16T00:00:00-06:00,,,Feet,65.40,Unknown,Unknown,65.40,3525,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0732202,2013-11-07T00:00:00-06:00,,,Feet,66.40,Unknown,Unknown,66.40,3524,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2014-11-12T00:00:00-06:00,,,Feet,65.40,Unknown,Unknown,65.40,3525,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2015-12-09T00:00:00-06:00,,,Feet,61.90,Unknown,Unknown,61.90,3528,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0732202,2017-10-27T00:00:00-06:00,,,Feet,64.90,Unknown,Unknown,64.90,3525,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0732202,2018-11-05T00:00:00-06:00,,,Feet,65.80,Unknown,Unknown,65.80,3524,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2019-10-24T00:00:00-06:00,,,Feet,64.50,Unknown,Unknown,64.50,3526,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2020-11-09T00:00:00-06:00,,,Feet,65.80,Unknown,Unknown,65.80,3524,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0732202,2022-01-25T00:00:00-06:00,,,Feet,67.40,Unknown,Unknown,67.40,3523,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602903,1993-01-25T00:00:00-06:00,,,Feet,270.87,Unknown,Unknown,270.87,3195,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,1996-02-22T00:00:00-06:00,,,Feet,279.00,Unknown,Unknown,279.00,3187,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,1997-01-09T00:00:00-06:00,,,Feet,278.79,Unknown,Unknown,278.79,3187,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602903,1998-01-13T00:00:00-06:00,,,Feet,281.12,Unknown,Unknown,281.12,3185,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2000-01-12T00:00:00-06:00,,,Feet,285.00,Unknown,Unknown,285.00,3181,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2001-04-09T00:00:00-06:00,,,Feet,283.78,Unknown,Unknown,283.78,3182,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2002-02-26T00:00:00-06:00,,,Feet,283.65,Unknown,Unknown,283.65,3182,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2003-01-28T00:00:00-06:00,,,Feet,286.94,Unknown,Unknown,286.94,3179,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2004-02-10T00:00:00-06:00,,,Feet,284.88,Unknown,Unknown,284.88,3181,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2005-03-07T00:00:00-06:00,,,Feet,284.83,Unknown,Unknown,284.83,3181,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2006-01-19T00:00:00-06:00,,,Feet,287.17,Unknown,Unknown,287.17,3179,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2007-01-16T00:00:00-06:00,,,Feet,287.27,Unknown,Unknown,287.27,3179,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2008-01-04T00:00:00-06:00,,,Feet,287.49,Unknown,Unknown,287.49,3179,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2009-02-20T00:00:00-06:00,,,Feet,292.50,Unknown,Unknown,292.50,3174,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2010-01-12T00:00:00-06:00,,,Feet,292.00,Unknown,Unknown,292.00,3174,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2011-02-16T00:00:00-06:00,,,Feet,291.62,Unknown,Unknown,291.62,3174,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2012-01-06T00:00:00-06:00,,,Feet,294.72,Unknown,Unknown,294.72,3171,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2013-01-21T00:00:00-06:00,,,Feet,299.05,Unknown,Unknown,299.05,3167,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2014-01-15T00:00:00-06:00,,,Feet,302.49,Unknown,Unknown,302.49,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2015-02-03T00:00:00-06:00,,,Feet,303.80,Unknown,Unknown,303.80,3162,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2016-02-29T00:00:00-06:00,,,Feet,302.00,Unknown,Unknown,302.00,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2017-02-22T00:00:00-06:00,,,Feet,302.20,Unknown,Unknown,302.20,3164,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2018-02-05T00:00:00-06:00,,,Feet,302.87,Unknown,Unknown,302.87,3163,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2019-01-09T00:00:00-06:00,,,Feet,310.10,Unknown,Unknown,310.10,3156,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2020-01-10T00:00:00-06:00,,,Feet,305.29,Unknown,Unknown,305.29,3161,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0602903,2021-01-27T00:00:00-06:00,,,Feet,309.50,Unknown,Unknown,309.50,3157,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0602903,2022-02-16T00:00:00-06:00,,,Feet,312.70,Unknown,Unknown,312.70,3153,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0603803,1993-01-25T00:00:00-06:00,,,Feet,254.62,Unknown,Unknown,254.62,3144,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,1994-02-14T00:00:00-06:00,,,Feet,256.59,Unknown,Unknown,256.59,3142,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,1995-03-23T00:00:00-06:00,,,Feet,258.62,Unknown,Unknown,258.62,3140,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,1996-02-21T00:00:00-06:00,,,Feet,257.60,Unknown,Unknown,257.60,3141,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,1997-01-16T00:00:00-06:00,,,Feet,259.40,Unknown,Unknown,259.40,3140,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0603803,1998-01-14T00:00:00-06:00,,,Feet,271.62,Unknown,Unknown,271.62,3127,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2001-04-05T00:00:00-06:00,,,Feet,256.87,Unknown,Unknown,256.87,3142,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2002-02-26T00:00:00-06:00,,,Feet,260.23,Unknown,Unknown,260.23,3139,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2003-02-18T00:00:00-06:00,,,Feet,263.64,Unknown,Unknown,263.64,3135,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2004-02-05T00:00:00-06:00,,,Feet,261.99,Unknown,Unknown,261.99,3137,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2005-03-07T00:00:00-06:00,,,Feet,261.58,Unknown,Unknown,261.58,3137,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2006-01-18T00:00:00-06:00,,,Feet,261.41,Unknown,Unknown,261.41,3138,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2007-01-16T00:00:00-06:00,,,Feet,258.63,Unknown,Unknown,258.63,3140,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2008-01-04T00:00:00-06:00,,,Feet,264.10,Unknown,Unknown,264.10,3135,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2009-02-20T00:00:00-06:00,,,Feet,264.39,Unknown,Unknown,264.39,3135,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2010-01-14T00:00:00-06:00,,,Feet,279.92,Unknown,Unknown,279.92,3119,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2011-02-16T00:00:00-06:00,,,Feet,268.50,Unknown,Unknown,268.50,3131,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2012-01-05T00:00:00-06:00,,,Feet,269.69,Unknown,Unknown,269.69,3129,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2013-01-21T00:00:00-06:00,,,Feet,279.88,Unknown,Unknown,279.88,3119,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2014-01-10T00:00:00-06:00,,,Feet,297.00,Unknown,Unknown,297.00,3102,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2015-02-12T00:00:00-06:00,,,Feet,307.45,Unknown,Unknown,307.45,3092,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2017-01-31T00:00:00-06:00,,,Feet,283.40,Unknown,Unknown,283.40,3116,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2018-02-05T00:00:00-06:00,,,Feet,287.81,Unknown,Unknown,287.81,3111,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2019-01-23T00:00:00-06:00,,,Feet,286.20,Unknown,Unknown,286.20,3113,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2021-01-14T00:00:00-06:00,,,Feet,288.70,Unknown,Unknown,288.70,3110,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0603803,2022-02-15T00:00:00-06:00,,,Feet,293.40,Unknown,Unknown,293.40,3106,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611601,1993-01-25T00:00:00-06:00,,,Feet,249.89,Unknown,Unknown,249.89,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,1994-02-14T00:00:00-06:00,,,Feet,250.09,Unknown,Unknown,250.09,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,1995-03-28T00:00:00-06:00,,,Feet,250.23,Unknown,Unknown,250.23,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,1996-02-21T00:00:00-06:00,,,Feet,248.80,Unknown,Unknown,248.80,3133,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,1997-01-17T00:00:00-06:00,,,Feet,248.47,Unknown,Unknown,248.47,3134,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0611601,1998-01-14T00:00:00-06:00,,,Feet,259.81,Unknown,Unknown,259.81,3122,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2000-01-17T00:00:00-06:00,,,Feet,251.83,Unknown,Unknown,251.83,3130,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2003-01-28T00:00:00-06:00,,,Feet,250.68,Unknown,Unknown,250.68,3131,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2004-02-05T00:00:00-06:00,,,Feet,249.53,Unknown,Unknown,249.53,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2005-03-05T00:00:00-06:00,,,Feet,250.18,Unknown,Unknown,250.18,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2006-01-18T00:00:00-06:00,,,Feet,249.94,Unknown,Unknown,249.94,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2008-01-04T00:00:00-06:00,,,Feet,253.92,Unknown,Unknown,253.92,3128,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2009-02-17T00:00:00-06:00,,,Feet,250.42,Unknown,Unknown,250.42,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2010-01-11T00:00:00-06:00,,,Feet,265.34,Unknown,Unknown,265.34,3117,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2011-02-16T00:00:00-06:00,,,Feet,259.50,Unknown,Unknown,259.50,3123,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2012-01-05T00:00:00-06:00,,,Feet,261.99,Unknown,Unknown,261.99,3120,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2014-01-16T00:00:00-06:00,,,Feet,279.00,Unknown,Unknown,279.00,3103,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2017-01-31T00:00:00-06:00,,,Feet,250.50,Unknown,Unknown,250.50,3132,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2018-02-08T00:00:00-06:00,,,Feet,253.71,Unknown,Unknown,253.71,3128,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2019-01-23T00:00:00-06:00,,,Feet,255.40,Unknown,Unknown,255.40,3127,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2020-01-09T00:00:00-06:00,,,Feet,263.95,Unknown,Unknown,263.95,3118,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0611601,2022-02-16T00:00:00-06:00,,,Feet,256.30,Unknown,Unknown,256.30,3126,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0359703,1993-01-05T00:00:00-06:00,,,Feet,280.91,Unknown,Unknown,280.91,3183,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,1994-03-16T00:00:00-06:00,,,Feet,281.43,Unknown,Unknown,281.43,3183,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,1996-02-22T00:00:00-06:00,,,Feet,283.10,Unknown,Unknown,283.10,3181,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,1998-03-12T00:00:00-06:00,,,Feet,301.55,Unknown,Unknown,301.55,3162,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2002-02-26T00:00:00-06:00,,,Feet,303.63,Unknown,Unknown,303.63,3160,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2004-02-27T00:00:00-06:00,,,Feet,307.22,Unknown,Unknown,307.22,3157,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2005-03-07T00:00:00-06:00,,,Feet,308.47,Unknown,Unknown,308.47,3156,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2006-01-19T00:00:00-06:00,,,Feet,305.22,Unknown,Unknown,305.22,3159,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2007-01-17T00:00:00-06:00,,,Feet,306.54,Unknown,Unknown,306.54,3157,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2008-01-03T00:00:00-06:00,,,Feet,321.09,Unknown,Unknown,321.09,3143,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2009-02-23T00:00:00-06:00,,,Feet,327.55,Unknown,Unknown,327.55,3136,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2010-01-14T00:00:00-06:00,,,Feet,336.84,Unknown,Unknown,336.84,3127,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2011-02-16T00:00:00-06:00,,,Feet,354.50,Unknown,Unknown,354.50,3110,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2013-01-21T00:00:00-06:00,,,Feet,343.19,Unknown,Unknown,343.19,3121,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2014-01-10T00:00:00-06:00,,,Feet,344.64,Unknown,Unknown,344.64,3119,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2016-01-27T00:00:00-06:00,,,Feet,347.35,Unknown,Unknown,347.35,3117,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0359703,2018-01-23T00:00:00-06:00,,,Feet,363.47,Unknown,Unknown,363.47,3101,measurement point: land surface,Unknown,Groundwater Conservation District
+TWDB,0359703,2019-01-09T00:00:00-06:00,,,Feet,358.63,Unknown,Unknown,358.63,3105,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708802,1993-01-04T00:00:00-06:00,,,Feet,318.31,Unknown,Unknown,318.31,3389,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,1994-01-25T00:00:00-06:00,,,Feet,321.55,Unknown,Unknown,321.55,3385,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,1996-02-09T00:00:00-06:00,,,Feet,328.00,Unknown,Unknown,328.00,3379,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,1997-02-11T00:00:00-06:00,,,Feet,326.75,Unknown,Unknown,326.75,3380,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708802,1998-03-09T00:00:00-06:00,,,Feet,332.23,Unknown,Unknown,332.23,3375,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2000-01-31T00:00:00-06:00,,,Feet,336.77,Unknown,Unknown,336.77,3370,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2001-04-10T00:00:00-06:00,,,Feet,335.34,Unknown,Unknown,335.34,3372,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2002-01-10T00:00:00-06:00,,,Feet,334.47,Unknown,Unknown,334.47,3373,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2005-03-09T00:00:00-06:00,,,Feet,356.41,Unknown,Unknown,356.41,3351,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2007-01-19T00:00:00-06:00,,,Feet,353.01,Unknown,Unknown,353.01,3354,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2008-01-09T00:00:00-06:00,,,Feet,360.44,Unknown,Unknown,360.44,3347,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2009-02-25T00:00:00-06:00,,,Feet,362.44,Unknown,Unknown,362.44,3345,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2010-01-27T00:00:00-06:00,,,Feet,360.30,Unknown,Unknown,360.30,3347,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2011-02-16T00:00:00-06:00,,,Feet,366.86,Unknown,Unknown,366.86,3340,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2012-01-06T00:00:00-06:00,,,Feet,371.66,Unknown,Unknown,371.66,3335,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2013-01-18T00:00:00-06:00,,,Feet,380.83,Unknown,Unknown,380.83,3326,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2014-01-16T00:00:00-06:00,,,Feet,374.83,Unknown,Unknown,374.83,3332,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2015-02-13T00:00:00-06:00,,,Feet,390.09,Unknown,Unknown,390.09,3317,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2016-02-19T00:00:00-06:00,,,Feet,392.90,Unknown,Unknown,392.90,3314,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2017-01-25T00:00:00-06:00,,,Feet,407.27,Unknown,Unknown,407.27,3300,measurement point: land surface,Steel Tape,Groundwater Conservation District
+TWDB,0708802,2019-01-15T00:00:00-06:00,,,Feet,386.85,Unknown,Unknown,386.85,3320,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708802,2021-03-04T00:00:00-06:00,,,Feet,388.20,Unknown,Unknown,388.20,3319,measurement point: land surface,Electric Line,Groundwater Conservation District
+TWDB,0708802,2022-02-10T00:00:00-06:00,,,Feet,394.20,Unknown,Unknown,394.20,3313,measurement point: land surface,Electric Line,Groundwater Conservation District

@@ -1,0 +1,7 @@
+"AgencyCd","SiteNo","LithologyID","LithologyDescription","LithologyControlledConcept","lang","uom","LithologyDepthFrom","LithologyDepthFromUnit","LithologyDepthTo","LithologyDepthToUnit"
+"TWDB","2803901","TWDB.2803901.LITH.1","soil","","eng","ft","0.00","feet","2.00","feet"
+"TWDB","2803901","TWDB.2803901.LITH.2","caliche","","eng","ft","2.00","feet","42.00","feet"
+"TWDB","2803901","TWDB.2803901.LITH.3","lime, yellow (cavities)","","eng","ft","42.00","feet","52.00","feet"
+"TWDB","2803901","TWDB.2803901.LITH.4","blue clay","","eng","ft","52.00","feet","122.00","feet"
+"TWDB","2803901","TWDB.2803901.LITH.5","white sand","","eng","ft","122.00","feet","192.00","feet"
+"TWDB","2803901","TWDB.2803901.LITH.6","red beds","","eng","ft","192.00","feet","210.00","feet"

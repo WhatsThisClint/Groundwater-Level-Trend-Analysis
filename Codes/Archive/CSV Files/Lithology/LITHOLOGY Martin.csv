@@ -1,0 +1,8 @@
+"AgencyCd","SiteNo","LithologyID","LithologyDescription","LithologyControlledConcept","lang","uom","LithologyDepthFrom","LithologyDepthFromUnit","LithologyDepthTo","LithologyDepthToUnit"
+"TWDB","2842705","TWDB.2842705.LITH.1","Top Soil","","eng","ft","0.00","feet","8.00","feet"
+"TWDB","2842705","TWDB.2842705.LITH.2","Caliche","","eng","ft","8.00","feet","20.00","feet"
+"TWDB","2842705","TWDB.2842705.LITH.3","Lime","","eng","ft","20.00","feet","50.00","feet"
+"TWDB","2842705","TWDB.2842705.LITH.4","Sand w/ Clay Ledges","","eng","ft","50.00","feet","115.00","feet"
+"TWDB","2842705","TWDB.2842705.LITH.5","Red Bed","","eng","ft","115.00","feet","122.00","feet"
+"TWDB","2748501","TWDB.2748501.LITH.2","(Missing)","","eng","ft","0.00","feet","160.00","feet"
+"TWDB","2748501","TWDB.2748501.LITH.1","Red Bed","","eng","ft","160.00","feet","163.00","feet"

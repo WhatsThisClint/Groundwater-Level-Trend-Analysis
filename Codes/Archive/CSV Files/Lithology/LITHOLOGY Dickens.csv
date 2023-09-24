@@ -1,0 +1,8 @@
+"AgencyCd","SiteNo","LithologyID","LithologyDescription","LithologyControlledConcept","lang","uom","LithologyDepthFrom","LithologyDepthFromUnit","LithologyDepthTo","LithologyDepthToUnit"
+"TWDB","2217102","TWDB.2217102.LITH.1","Gen formation","","eng","ft","0.00","feet","295.00","feet"
+"TWDB","2217102","TWDB.2217102.LITH.2","Coarse yellow sand","","eng","ft","295.00","feet","305.00","feet"
+"TWDB","2217102","TWDB.2217102.LITH.3","Sandy clay","","eng","ft","305.00","feet","330.00","feet"
+"TWDB","2217102","TWDB.2217102.LITH.4","Loose gravel and rock mix","","eng","ft","330.00","feet","340.00","feet"
+"TWDB","2217102","TWDB.2217102.LITH.5","Clay red and gray","","eng","ft","340.00","feet","395.00","feet"
+"TWDB","2217102","TWDB.2217102.LITH.6","Soft sandstone and thin sand strips","","eng","ft","395.00","feet","414.00","feet"
+"TWDB","2217102","TWDB.2217102.LITH.7","Red clay","","eng","ft","414.00","feet","421.00","feet"

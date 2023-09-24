@@ -1,0 +1,5 @@
+"AgencyCd","SiteNo","LithologyID","LithologyDescription","LithologyControlledConcept","lang","uom","LithologyDepthFrom","LithologyDepthFromUnit","LithologyDepthTo","LithologyDepthToUnit"
+"CODWR","152905","CODWR.152905.LITH.1","GRAVEL WITH CLAY/SILT","HIGH PLAINS AQUIFER","eng","ft","0","feet","20","feet"
+"CODWR","152905","CODWR.152905.LITH.2","GRAVEL WITH CLAY/SILT","HIGH PLAINS AQUIFER","eng","ft","20","feet","40","feet"
+"CODWR","152905","CODWR.152905.LITH.3","GRAVEL","HIGH PLAINS AQUIFER","eng","ft","40","feet","58","feet"
+"CODWR","152905","CODWR.152905.LITH.4","CLAY","HIGH PLAINS AQUIFER","eng","ft","58","feet","80","feet"
